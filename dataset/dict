@@ -1,0 +1,1742 @@
+{
+    "a": [
+        "DT"
+    ],
+    "abandoned": [
+        "VBN"
+    ],
+    "ability": [
+        "NN"
+    ],
+    "about": [
+        "IN",
+        "RB"
+    ],
+    "above": [
+        "IN"
+    ],
+    "abreast": [
+        "RB"
+    ],
+    "abusive": [
+        "JJ"
+    ],
+    "academics": [
+        "NNS"
+    ],
+    "acceptable": [
+        "JJ"
+    ],
+    "acquisition": [
+        "NN"
+    ],
+    "act": [
+        "NNP"
+    ],
+    "active": [
+        "JJ"
+    ],
+    "activity": [
+        "NN"
+    ],
+    "adjustment": [
+        "NN"
+    ],
+    "adjustments": [
+        "NNS"
+    ],
+    "administration": [
+        "NN"
+    ],
+    "adopted": [
+        "VBD"
+    ],
+    "advisers": [
+        "NNP"
+    ],
+    "against": [
+        "IN"
+    ],
+    "agencies": [
+        "NNS"
+    ],
+    "agency": [
+        "NN"
+    ],
+    "agenda": [
+        "NN"
+    ],
+    "aggressive": [
+        "JJ"
+    ],
+    "ago": [
+        "RB"
+    ],
+    "agreements": [
+        "NNS"
+    ],
+    "all": [
+        "DT"
+    ],
+    "allocation": [
+        "JJ"
+    ],
+    "also": [
+        "RB"
+    ],
+    "although": [
+        "IN"
+    ],
+    "among": [
+        "IN"
+    ],
+    "an": [
+        "DT"
+    ],
+    "and": [
+        "CC"
+    ],
+    "antitrust": [
+        "NNP",
+        "JJ"
+    ],
+    "any": [
+        "DT"
+    ],
+    "apply": [
+        "VB"
+    ],
+    "appointees": [
+        "NNS"
+    ],
+    "appointment": [
+        "NN"
+    ],
+    "approaches": [
+        "NNS"
+    ],
+    "approval": [
+        "NN"
+    ],
+    "are": [
+        "VBP"
+    ],
+    "area": [
+        "NN"
+    ],
+    "arguably": [
+        "RB"
+    ],
+    "argue": [
+        "VBP"
+    ],
+    "arrest": [
+        "VB"
+    ],
+    "arrival": [
+        "NN"
+    ],
+    "as": [
+        "IN",
+        "RB"
+    ],
+    "ascent": [
+        "NN"
+    ],
+    "asphalt": [
+        "JJ"
+    ],
+    "associations": [
+        "NNS"
+    ],
+    "assumptions": [
+        "NNS"
+    ],
+    "at": [
+        "IN"
+    ],
+    "attack": [
+        "VB"
+    ],
+    "attempted": [
+        "VBN"
+    ],
+    "attention": [
+        "NN"
+    ],
+    "attorneys": [
+        "NNS"
+    ],
+    "awareness": [
+        "NN"
+    ],
+    "away": [
+        "RB"
+    ],
+    "bakeries": [
+        "NNS"
+    ],
+    "ban": [
+        "NN"
+    ],
+    "baseball": [
+        "NN"
+    ],
+    "be": [
+        "VB"
+    ],
+    "bear": [
+        "VBP",
+        "VB"
+    ],
+    "because": [
+        "IN"
+    ],
+    "been": [
+        "VBN"
+    ],
+    "begin": [
+        "VB"
+    ],
+    "behavior": [
+        "NN"
+    ],
+    "behind": [
+        "IN"
+    ],
+    "belief": [
+        "NN"
+    ],
+    "belt": [
+        "NN"
+    ],
+    "benefited": [
+        "VBN"
+    ],
+    "between": [
+        "IN"
+    ],
+    "beyond": [
+        "IN"
+    ],
+    "biggest": [
+        "JJS"
+    ],
+    "both": [
+        "DT"
+    ],
+    "break": [
+        "NN"
+    ],
+    "brewing": [
+        "NNP"
+    ],
+    "bright": [
+        "JJ"
+    ],
+    "bringing": [
+        "VBG"
+    ],
+    "brought": [
+        "VBD"
+    ],
+    "burden": [
+        "NN"
+    ],
+    "bureaucracy": [
+        "NN"
+    ],
+    "bush": [
+        "NNP"
+    ],
+    "business": [
+        "NN"
+    ],
+    "but": [
+        "CC"
+    ],
+    "by": [
+        "IN"
+    ],
+    "called": [
+        "JJ",
+        "VBD"
+    ],
+    "calls": [
+        "NNS"
+    ],
+    "campaign": [
+        "NN"
+    ],
+    "can": [
+        "MD"
+    ],
+    "candidate": [
+        "NN"
+    ],
+    "capabilities": [
+        "NNS"
+    ],
+    "capital": [
+        "NN"
+    ],
+    "carried": [
+        "VBN"
+    ],
+    "case": [
+        "NN"
+    ],
+    "cases": [
+        "NNS"
+    ],
+    "cautioned": [
+        "VBN"
+    ],
+    "center": [
+        "NN"
+    ],
+    "chairman": [
+        "NNP"
+    ],
+    "challenge": [
+        "VB",
+        "NN"
+    ],
+    "changes": [
+        "NNS"
+    ],
+    "channel": [
+        "VB"
+    ],
+    "choice": [
+        "NN"
+    ],
+    "claiming": [
+        "VBG"
+    ],
+    "coincide": [
+        "VB"
+    ],
+    "collar": [
+        "VB"
+    ],
+    "collective": [
+        "JJ"
+    ],
+    "commercial": [
+        "JJ"
+    ],
+    "commission": [
+        "NNP"
+    ],
+    "common": [
+        "JJ"
+    ],
+    "companies": [
+        "NNS"
+    ],
+    "compass": [
+        "NN"
+    ],
+    "competition": [
+        "NN"
+    ],
+    "competitors": [
+        "NNS"
+    ],
+    "concealed": [
+        "VBD"
+    ],
+    "concentrated": [
+        "VBN"
+    ],
+    "concentrations": [
+        "NNS"
+    ],
+    "concepts": [
+        "NNS"
+    ],
+    "conduct": [
+        "NN"
+    ],
+    "confirmation": [
+        "NN"
+    ],
+    "congress": [
+        "NNP"
+    ],
+    "conserve": [
+        "VB"
+    ],
+    "considerable": [
+        "JJ"
+    ],
+    "considerations": [
+        "NNS"
+    ],
+    "considering": [
+        "VBG"
+    ],
+    "consistency": [
+        "NN"
+    ],
+    "consolidate": [
+        "VB"
+    ],
+    "constraint": [
+        "NN"
+    ],
+    "content": [
+        "NN"
+    ],
+    "control": [
+        "NN"
+    ],
+    "coors": [
+        "NNP"
+    ],
+    "core": [
+        "NN"
+    ],
+    "costs": [
+        "NNS"
+    ],
+    "could": [
+        "MD"
+    ],
+    "council": [
+        "NNP"
+    ],
+    "court": [
+        "NNP"
+    ],
+    "created": [
+        "VBN"
+    ],
+    "criminal": [
+        "JJ"
+    ],
+    "critics": [
+        "NNS"
+    ],
+    "current": [
+        "JJ"
+    ],
+    "daunting": [
+        "VBG"
+    ],
+    "decisions": [
+        "NNS"
+    ],
+    "declined": [
+        "VBD"
+    ],
+    "default": [
+        "NN"
+    ],
+    "defeat": [
+        "VB"
+    ],
+    "defendants": [
+        "NNS"
+    ],
+    "degree": [
+        "NN"
+    ],
+    "depart": [
+        "VB"
+    ],
+    "department": [
+        "NNP"
+    ],
+    "deregulation": [
+        "NN"
+    ],
+    "designed": [
+        "VBN"
+    ],
+    "despite": [
+        "IN"
+    ],
+    "destined": [
+        "VBN"
+    ],
+    "development": [
+        "NN"
+    ],
+    "difficult": [
+        "JJ"
+    ],
+    "direct": [
+        "JJ"
+    ],
+    "direction": [
+        "NN"
+    ],
+    "distribution": [
+        "NN"
+    ],
+    "division": [
+        "NNP",
+        "NN"
+    ],
+    "do": [
+        "VBP"
+    ],
+    "dominant": [
+        "JJ"
+    ],
+    "doubtful": [
+        "JJ"
+    ],
+    "down": [
+        "RB"
+    ],
+    "dramatic": [
+        "JJ"
+    ],
+    "draw": [
+        "VB"
+    ],
+    "dropped": [
+        "VBD"
+    ],
+    "during": [
+        "IN"
+    ],
+    "ease": [
+        "NN"
+    ],
+    "economic": [
+        "NNP"
+    ],
+    "economically": [
+        "RB"
+    ],
+    "effort": [
+        "NN"
+    ],
+    "efforts": [
+        "NNS"
+    ],
+    "elements": [
+        "NNS"
+    ],
+    "endorsed": [
+        "VBN"
+    ],
+    "enforce": [
+        "VB"
+    ],
+    "enforcement": [
+        "NN"
+    ],
+    "enforcing": [
+        "VBG"
+    ],
+    "ensnare": [
+        "VB"
+    ],
+    "entailed": [
+        "VBD"
+    ],
+    "enthusiastic": [
+        "JJ"
+    ],
+    "entity": [
+        "NN"
+    ],
+    "entrants": [
+        "NNS"
+    ],
+    "entry": [
+        "NN"
+    ],
+    "envy": [
+        "VB"
+    ],
+    "era": [
+        "NN"
+    ],
+    "erosion": [
+        "NN"
+    ],
+    "established": [
+        "VBN",
+        "VBD"
+    ],
+    "even": [
+        "RB"
+    ],
+    "evident": [
+        "JJ"
+    ],
+    "examining": [
+        "VBG"
+    ],
+    "example": [
+        "NN"
+    ],
+    "exceeded": [
+        "VBN"
+    ],
+    "exclusionary": [
+        "JJ"
+    ],
+    "existing": [
+        "VBG"
+    ],
+    "expanded": [
+        "VBN"
+    ],
+    "expansion": [
+        "NN"
+    ],
+    "expect": [
+        "VB"
+    ],
+    "expenditures": [
+        "NNS"
+    ],
+    "experience": [
+        "NN"
+    ],
+    "experiments": [
+        "NNS"
+    ],
+    "extended": [
+        "VBD"
+    ],
+    "extremely": [
+        "RB"
+    ],
+    "extremes": [
+        "NNS"
+    ],
+    "faces": [
+        "VBZ"
+    ],
+    "fallen": [
+        "VBN"
+    ],
+    "fared": [
+        "VBD"
+    ],
+    "favorable": [
+        "JJ"
+    ],
+    "federal": [
+        "JJ",
+        "NNP"
+    ],
+    "fell": [
+        "VBD"
+    ],
+    "few": [
+        "JJ"
+    ],
+    "field": [
+        "NN"
+    ],
+    "filed": [
+        "VBD"
+    ],
+    "finally": [
+        "RB"
+    ],
+    "find": [
+        "VB"
+    ],
+    "firm": [
+        "JJ"
+    ],
+    "firms": [
+        "NNS"
+    ],
+    "first": [
+        "RB"
+    ],
+    "fixing": [
+        "NN"
+    ],
+    "flow": [
+        "NN"
+    ],
+    "focus": [
+        "NN"
+    ],
+    "for": [
+        "IN"
+    ],
+    "foreshadow": [
+        "VB"
+    ],
+    "formerly": [
+        "RB"
+    ],
+    "forsaken": [
+        "VBN"
+    ],
+    "forseeable": [
+        "JJ"
+    ],
+    "fortune": [
+        "NNP"
+    ],
+    "frequently": [
+        "RB"
+    ],
+    "fringe": [
+        "NN"
+    ],
+    "from": [
+        "IN"
+    ],
+    "ftc": [
+        "NNP"
+    ],
+    "full": [
+        "JJ"
+    ],
+    "fundamental": [
+        "JJ"
+    ],
+    "gain": [
+        "VB"
+    ],
+    "general": [
+        "JJ"
+    ],
+    "generate": [
+        "VB"
+    ],
+    "genuine": [
+        "JJ"
+    ],
+    "george": [
+        "NNP"
+    ],
+    "getting": [
+        "VBG"
+    ],
+    "going": [
+        "VBG"
+    ],
+    "good": [
+        "JJ"
+    ],
+    "governing": [
+        "VBG"
+    ],
+    "government": [
+        "NN"
+    ],
+    "graduates": [
+        "NNS"
+    ],
+    "gravity": [
+        "NN"
+    ],
+    "greater": [
+        "JJR"
+    ],
+    "growth": [
+        "NN"
+    ],
+    "guidelines": [
+        "NNS"
+    ],
+    "had": [
+        "VBD"
+    ],
+    "half": [
+        "PDT"
+    ],
+    "handful": [
+        "NN"
+    ],
+    "hands": [
+        "NNS"
+    ],
+    "hapless": [
+        "JJ"
+    ],
+    "has": [
+        "VBZ"
+    ],
+    "have": [
+        "VBP"
+    ],
+    "he": [
+        "PRP"
+    ],
+    "head": [
+        "VB"
+    ],
+    "heavier": [
+        "JJR"
+    ],
+    "heavily": [
+        "RB"
+    ],
+    "high": [
+        "JJ"
+    ],
+    "history": [
+        "NN"
+    ],
+    "horizontal": [
+        "JJ"
+    ],
+    "host": [
+        "NN"
+    ],
+    "how": [
+        "WRB"
+    ],
+    "however": [
+        "RB"
+    ],
+    "human": [
+        "JJ"
+    ],
+    "if": [
+        "IN"
+    ],
+    "ii": [
+        "NNP"
+    ],
+    "immediate": [
+        "JJ"
+    ],
+    "impeded": [
+        "VBN"
+    ],
+    "important": [
+        "JJ"
+    ],
+    "improve": [
+        "VB"
+    ],
+    "in": [
+        "IN"
+    ],
+    "increase": [
+        "VB"
+    ],
+    "increased": [
+        "VBD",
+        "VBN"
+    ],
+    "increasingly": [
+        "RB"
+    ],
+    "indeed": [
+        "RB"
+    ],
+    "indicate": [
+        "VBP",
+        "VB"
+    ],
+    "indigent": [
+        "JJ"
+    ],
+    "individual": [
+        "JJ"
+    ],
+    "industry": [
+        "NN",
+        "JJ"
+    ],
+    "infrastructure": [
+        "NN"
+    ],
+    "inherited": [
+        "VBN"
+    ],
+    "initiated": [
+        "VBD"
+    ],
+    "institutional": [
+        "JJ"
+    ],
+    "intensive": [
+        "JJ"
+    ],
+    "intent": [
+        "NN"
+    ],
+    "interpretation": [
+        "NN"
+    ],
+    "into": [
+        "IN"
+    ],
+    "investigations": [
+        "NNS"
+    ],
+    "involving": [
+        "VBG"
+    ],
+    "is": [
+        "VBZ"
+    ],
+    "issue": [
+        "NN"
+    ],
+    "it": [
+        "PRP"
+    ],
+    "its": [
+        "PRP"
+    ],
+    "james": [
+        "NNP"
+    ],
+    "janet": [
+        "NNP"
+    ],
+    "job": [
+        "NN"
+    ],
+    "join": [
+        "VB"
+    ],
+    "joining": [
+        "VBG"
+    ],
+    "joseph": [
+        "NNP"
+    ],
+    "judges": [
+        "NNS"
+    ],
+    "justice": [
+        "NNP"
+    ],
+    "keeping": [
+        "VBG"
+    ],
+    "knee": [
+        "NN"
+    ],
+    "knows": [
+        "VBZ"
+    ],
+    "kovacic": [
+        "NNP"
+    ],
+    "lags": [
+        "VBZ"
+    ],
+    "large": [
+        "JJ"
+    ],
+    "largely": [
+        "RB"
+    ],
+    "law": [
+        "NN"
+    ],
+    "lawyers": [
+        "NNS"
+    ],
+    "left": [
+        "NN"
+    ],
+    "legislators": [
+        "NNS"
+    ],
+    "letters": [
+        "NNS"
+    ],
+    "level": [
+        "NN",
+        "JJ"
+    ],
+    "like": [
+        "IN"
+    ],
+    "likely": [
+        "RB",
+        "JJ"
+    ],
+    "limitations": [
+        "NNS"
+    ],
+    "limited": [
+        "VBD"
+    ],
+    "line": [
+        "NN"
+    ],
+    "lowest": [
+        "JJS"
+    ],
+    "maintenance": [
+        "NN"
+    ],
+    "major": [
+        "JJ"
+    ],
+    "manufacturer": [
+        "NN"
+    ],
+    "market": [
+        "NN"
+    ],
+    "markets": [
+        "NNS"
+    ],
+    "mason": [
+        "NNP"
+    ],
+    "matters": [
+        "NNS"
+    ],
+    "may": [
+        "MD"
+    ],
+    "member": [
+        "NN"
+    ],
+    "merged": [
+        "VBN"
+    ],
+    "merger": [
+        "NN",
+        "JJ"
+    ],
+    "mergers": [
+        "NNS"
+    ],
+    "mesh": [
+        "NN"
+    ],
+    "met": [
+        "VBN"
+    ],
+    "methods": [
+        "NNS"
+    ],
+    "might": [
+        "MD"
+    ],
+    "minded": [
+        "JJ"
+    ],
+    "moderation": [
+        "NN"
+    ],
+    "modern": [
+        "JJ"
+    ],
+    "modest": [
+        "JJ"
+    ],
+    "monopolization": [
+        "NN"
+    ],
+    "more": [
+        "JJR",
+        "RBR"
+    ],
+    "most": [
+        "RBS"
+    ],
+    "move": [
+        "VB"
+    ],
+    "moving": [
+        "NN"
+    ],
+    "must": [
+        "MD"
+    ],
+    "net": [
+        "NN"
+    ],
+    "new": [
+        "JJ",
+        "NNP"
+    ],
+    "no": [
+        "DT"
+    ],
+    "nominal": [
+        "JJ"
+    ],
+    "nominees": [
+        "NNS"
+    ],
+    "not": [
+        "RB"
+    ],
+    "noted": [
+        "VBD"
+    ],
+    "noteworthy": [
+        "JJ"
+    ],
+    "number": [
+        "NN"
+    ],
+    "obscure": [
+        "JJ"
+    ],
+    "occasional": [
+        "JJ"
+    ],
+    "of": [
+        "IN"
+    ],
+    "office": [
+        "NN"
+    ],
+    "officials": [
+        "NNS"
+    ],
+    "often": [
+        "RB"
+    ],
+    "on": [
+        "IN"
+    ],
+    "only": [
+        "RB"
+    ],
+    "opportunity": [
+        "NN"
+    ],
+    "or": [
+        "CC"
+    ],
+    "order": [
+        "NN"
+    ],
+    "organizations": [
+        "NNS"
+    ],
+    "other": [
+        "JJ"
+    ],
+    "output": [
+        "NN"
+    ],
+    "over": [
+        "IN"
+    ],
+    "overlooked": [
+        "VBN"
+    ],
+    "own": [
+        "JJ"
+    ],
+    "parade": [
+        "NN"
+    ],
+    "particularly": [
+        "RB"
+    ],
+    "parties": [
+        "NNS"
+    ],
+    "past": [
+        "JJ"
+    ],
+    "period": [
+        "NN"
+    ],
+    "permissive": [
+        "JJ"
+    ],
+    "permit": [
+        "VB"
+    ],
+    "personnel": [
+        "NNS"
+    ],
+    "physicians": [
+        "NNS"
+    ],
+    "pitches": [
+        "NNS"
+    ],
+    "plaintiffs": [
+        "NNS"
+    ],
+    "plans": [
+        "VBZ"
+    ],
+    "pledges": [
+        "NNS"
+    ],
+    "point": [
+        "VBP"
+    ],
+    "points": [
+        "NNS"
+    ],
+    "policy": [
+        "NN"
+    ],
+    "political": [
+        "JJ"
+    ],
+    "pool": [
+        "NN"
+    ],
+    "poorly": [
+        "RB"
+    ],
+    "possibilities": [
+        "NNS"
+    ],
+    "post": [
+        "NN"
+    ],
+    "practices": [
+        "NNS"
+    ],
+    "practitioners": [
+        "NNS"
+    ],
+    "preclude": [
+        "VB"
+    ],
+    "president": [
+        "NN"
+    ],
+    "price": [
+        "NN"
+    ],
+    "prices": [
+        "NNS"
+    ],
+    "pricing": [
+        "VBG"
+    ],
+    "private": [
+        "JJ"
+    ],
+    "probably": [
+        "RB"
+    ],
+    "process": [
+        "NN"
+    ],
+    "procurement": [
+        "NN"
+    ],
+    "product": [
+        "NN"
+    ],
+    "program": [
+        "NN"
+    ],
+    "prohibitions": [
+        "NNS"
+    ],
+    "promises": [
+        "NNS"
+    ],
+    "promotional": [
+        "JJ"
+    ],
+    "proof": [
+        "NN"
+    ],
+    "proposed": [
+        "VBN"
+    ],
+    "prosecute": [
+        "VB"
+    ],
+    "prosecution": [
+        "NN"
+    ],
+    "public": [
+        "JJ"
+    ],
+    "pursue": [
+        "VB"
+    ],
+    "pursued": [
+        "VBD"
+    ],
+    "pursuing": [
+        "VBG"
+    ],
+    "pursuit": [
+        "NN"
+    ],
+    "pygmies": [
+        "NNS"
+    ],
+    "raise": [
+        "VB"
+    ],
+    "rarely": [
+        "RB"
+    ],
+    "rate": [
+        "NN",
+        "JJ"
+    ],
+    "reagan": [
+        "NNP"
+    ],
+    "reason": [
+        "NN"
+    ],
+    "reassert": [
+        "VB"
+    ],
+    "recent": [
+        "JJ"
+    ],
+    "recruit": [
+        "VB"
+    ],
+    "recurring": [
+        "VBG"
+    ],
+    "redirected": [
+        "VBD"
+    ],
+    "reduce": [
+        "VB"
+    ],
+    "reduction": [
+        "NN"
+    ],
+    "reinvigoration": [
+        "NN"
+    ],
+    "rejuvenated": [
+        "VBN"
+    ],
+    "relatively": [
+        "RB"
+    ],
+    "reliably": [
+        "RB"
+    ],
+    "remain": [
+        "VB"
+    ],
+    "removed": [
+        "VBD"
+    ],
+    "renew": [
+        "VB"
+    ],
+    "reorientation": [
+        "NN"
+    ],
+    "resale": [
+        "NN"
+    ],
+    "resembled": [
+        "VBD"
+    ],
+    "resource": [
+        "NN"
+    ],
+    "resources": [
+        "NNS"
+    ],
+    "restraint": [
+        "JJ"
+    ],
+    "restraints": [
+        "NNS"
+    ],
+    "restricting": [
+        "JJ"
+    ],
+    "retrain": [
+        "VB"
+    ],
+    "retrenchment": [
+        "NN"
+    ],
+    "reverse": [
+        "VB"
+    ],
+    "revive": [
+        "VB"
+    ],
+    "richard": [
+        "NNP"
+    ],
+    "rigging": [
+        "NN"
+    ],
+    "rightward": [
+        "JJ"
+    ],
+    "rill": [
+        "NNP"
+    ],
+    "risk": [
+        "JJ"
+    ],
+    "role": [
+        "NN"
+    ],
+    "roughly": [
+        "RB"
+    ],
+    "rules": [
+        "NNS"
+    ],
+    "s": [
+        "POS",
+        "NNS"
+    ],
+    "said": [
+        "VBD"
+    ],
+    "schemes": [
+        "NNS"
+    ],
+    "schmalensee": [
+        "NNP"
+    ],
+    "school": [
+        "JJ"
+    ],
+    "schumpeter": [
+        "NNP"
+    ],
+    "scrutinizing": [
+        "VBG"
+    ],
+    "second": [
+        "NNP",
+        "JJ"
+    ],
+    "seems": [
+        "VBZ"
+    ],
+    "seldom": [
+        "RB"
+    ],
+    "several": [
+        "JJ"
+    ],
+    "sherman": [
+        "NNP"
+    ],
+    "shifted": [
+        "VBD"
+    ],
+    "signal": [
+        "VB"
+    ],
+    "significantly": [
+        "RB"
+    ],
+    "since": [
+        "IN"
+    ],
+    "size": [
+        "NN"
+    ],
+    "slow": [
+        "JJ"
+    ],
+    "small": [
+        "JJ"
+    ],
+    "smaller": [
+        "JJR"
+    ],
+    "some": [
+        "DT"
+    ],
+    "sound": [
+        "JJ"
+    ],
+    "specifications": [
+        "NNS"
+    ],
+    "speeches": [
+        "NNS"
+    ],
+    "staggering": [
+        "JJ"
+    ],
+    "standards": [
+        "NNS"
+    ],
+    "state": [
+        "NN"
+    ],
+    "statements": [
+        "NNS"
+    ],
+    "steiger": [
+        "NNP"
+    ],
+    "stopped": [
+        "VBD"
+    ],
+    "storage": [
+        "NN"
+    ],
+    "strata": [
+        "NNS"
+    ],
+    "strike": [
+        "NN"
+    ],
+    "strikes": [
+        "NNS"
+    ],
+    "stroh": [
+        "NNP"
+    ],
+    "studying": [
+        "VBG"
+    ],
+    "substantial": [
+        "JJ"
+    ],
+    "substantially": [
+        "RB"
+    ],
+    "success": [
+        "NN"
+    ],
+    "such": [
+        "JJ"
+    ],
+    "suggested": [
+        "VBD"
+    ],
+    "suggests": [
+        "VBZ"
+    ],
+    "suppliers": [
+        "NNS"
+    ],
+    "supreme": [
+        "NNP"
+    ],
+    "surely": [
+        "RB"
+    ],
+    "surprising": [
+        "JJ"
+    ],
+    "swing": [
+        "NN"
+    ],
+    "sympathetic": [
+        "JJ"
+    ],
+    "talent": [
+        "NN"
+    ],
+    "talented": [
+        "JJ"
+    ],
+    "target": [
+        "NN"
+    ],
+    "task": [
+        "NN"
+    ],
+    "teaches": [
+        "VBZ"
+    ],
+    "terrain": [
+        "NN"
+    ],
+    "than": [
+        "IN"
+    ],
+    "that": [
+        "IN",
+        "DT",
+        "WDT"
+    ],
+    "the": [
+        "DT"
+    ],
+    "their": [
+        "PRP"
+    ],
+    "them": [
+        "PRP"
+    ],
+    "these": [
+        "DT"
+    ],
+    "they": [
+        "PRP"
+    ],
+    "third": [
+        "JJ"
+    ],
+    "this": [
+        "DT"
+    ],
+    "though": [
+        "IN"
+    ],
+    "three": [
+        "CD"
+    ],
+    "thresholds": [
+        "NNS"
+    ],
+    "through": [
+        "IN"
+    ],
+    "tighter": [
+        "JJR"
+    ],
+    "to": [
+        "TO"
+    ],
+    "today": [
+        "NN"
+    ],
+    "tone": [
+        "NN"
+    ],
+    "top": [
+        "NN"
+    ],
+    "total": [
+        "NN"
+    ],
+    "tougher": [
+        "JJR"
+    ],
+    "toward": [
+        "IN"
+    ],
+    "trade": [
+        "NNP",
+        "NN"
+    ],
+    "transactions": [
+        "NNS"
+    ],
+    "treatment": [
+        "NN"
+    ],
+    "trend": [
+        "NN"
+    ],
+    "trivial": [
+        "JJ"
+    ],
+    "turn": [
+        "VB"
+    ],
+    "two": [
+        "CD"
+    ],
+    "typical": [
+        "JJ"
+    ],
+    "umpire": [
+        "NN"
+    ],
+    "undertake": [
+        "VB"
+    ],
+    "unicorns": [
+        "NNS"
+    ],
+    "university": [
+        "NNP"
+    ],
+    "unless": [
+        "IN"
+    ],
+    "unlike": [
+        "IN"
+    ],
+    "unsupportable": [
+        "JJ"
+    ],
+    "upon": [
+        "IN"
+    ],
+    "upper": [
+        "JJ"
+    ],
+    "used": [
+        "VBN"
+    ],
+    "ventures": [
+        "NNS"
+    ],
+    "vertical": [
+        "JJ"
+    ],
+    "wage": [
+        "NN"
+    ],
+    "war": [
+        "NNP"
+    ],
+    "was": [
+        "VBD"
+    ],
+    "washington": [
+        "NNP"
+    ],
+    "welcomed": [
+        "VBN"
+    ],
+    "were": [
+        "VBD"
+    ],
+    "when": [
+        "WRB"
+    ],
+    "where": [
+        "WRB"
+    ],
+    "will": [
+        "MD",
+        "NN"
+    ],
+    "wisdom": [
+        "NN"
+    ],
+    "wisely": [
+        "RB"
+    ],
+    "with": [
+        "IN"
+    ],
+    "world": [
+        "NNP"
+    ],
+    "would": [
+        "MD"
+    ],
+    "year": [
+        "JJ"
+    ],
+    "years": [
+        "NNS"
+    ],
+    "yield": [
+        "VB"
+    ],
+    "york": [
+        "NNP"
+    ],
+    "zone": [
+        "NN"
+    ]
+}
