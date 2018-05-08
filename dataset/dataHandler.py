@@ -39,7 +39,10 @@ class MyDataHandler:
         p = re.compile("[A-Za-z]+/[A-Za-z]+")
 
         for line in lines:
-            self.__set_data_dict(p.findall(line))
+            # print(line)
+            # pass
+            print(line, p.findall(line))
+            # self.__set_data_dict(p.findall(line))
 
     def print_dict(self):
         keys = sorted(self.data_dict.keys())
