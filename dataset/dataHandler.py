@@ -92,36 +92,39 @@ class MyDataHandler:
         return key
 
     # initialize vocab using count
-    def __init_vocab_dict(self):
+    def __init_vocab_dict(self, n_gram):
         for sentence in self.sent_list:
-            for word in sentence.split():
-                key = self.__get_key(word)
+            sentence = sentence.split()
+            for i in range(len(sentence) + 1 - n_gram):
+                keys = [self.__get_key(sentence[j]) for j in range(i, i + n_gram)]
+                key = ' '.join(keys[0:-1])
 
                 # vocab = { key: [ num of key, { given key: num of given key, ... , } ],
                 #                   ... ,
                 #         }
-                if key not in self.__vocab_dict:
+                if key not in self.vocab_dict:
                     self.vocab_dict[key] = [1, OrderedDict()]
                 else:
                     self.vocab_dict[key][0] += 1
-        #
-        # # initialize columns in vocab keys
-        # keys = sorted(self.vocab_dict.keys())
-        # for k, v in self.vocab_dict.items():
-        #     for key in keys:
-        #         self.vocab_dict[k][1][key] = int()
 
-    def __extend_vocab_dict(self):
+    def __extend_vocab_dict(self, n_gram):
         for sentence in self.sent_list:
-            for i, word in enumerate(sentence.split()):
-                key = self.__get_key(word)
-                print(i, word)
-            print()
+            sentence = sentence.split()
+            for i in range(len(sentence) + 1 - n_gram):
+                keys = [self.__get_key(sentence[j]) for j in range(i, i + n_gram)]
+                key = ' '.join(keys[0:-1])
+                target_key = keys[-1]
+                target_dict = self.vocab_dict[key][1]
+
+                if target_key not in target_dict:
+                    target_dict[target_key] = 1
+                else:
+                    target_dict[target_key] += 1
 
     # set vocab for counting
-    def __set_vocab_dict(self):
-        self.__init_vocab_dict()
-        self.__extend_vocab_dict()
+    def __set_vocab_dict(self, n_gram=SET_N_GRAM):
+        self.__init_vocab_dict(n_gram)
+        self.__extend_vocab_dict(n_gram)
 
     def pre_processing(self):
         self.__set_sentence_list()

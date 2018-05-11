@@ -12,4 +12,4 @@ if __name__ == '__main__':
     data_handler = MyDataHandler()
     data_handler.pre_processing()
     # data_handler.print_dict()
-    # data_handler.dump()
+    data_handler.dump()
