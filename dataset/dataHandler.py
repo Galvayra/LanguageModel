@@ -76,7 +76,7 @@ class MyDataHandler:
         self.__append_sent_in_list()
 
     @staticmethod
-    def __get_key(word, tagging=True):
+    def get_key(word, tagging=True):
         word = word.split('/')
 
         if len(word) > 1:
