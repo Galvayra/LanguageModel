@@ -7,7 +7,6 @@ from collections import OrderedDict
 class MyDataHandler:
     def __init__(self):
         self.__vocab_dict = OrderedDict()
-        self.__table = OrderedDict()
         self.__sent_list = list()
         self.__sentence = str()
         self.__is_sent = False
@@ -15,10 +14,6 @@ class MyDataHandler:
     @property
     def vocab_dict(self):
         return self.__vocab_dict
-
-    @property
-    def table(self):
-        return self.__table
 
     @property
     def sent_list(self):
@@ -81,13 +76,16 @@ class MyDataHandler:
         self.__append_sent_in_list()
 
     @staticmethod
-    def __get_key(word):
+    def __get_key(word, tagging=True):
         word = word.split('/')
 
         if len(word) > 1:
-            key = word[0].lower() + "/" + word[1]
+            if tagging:
+                key = word[0].lower() + "/" + word[1].upper()
+            else:
+                key = word[0].lower()
         else:
-            key = word[0]
+            key = word[0].lower()
 
         return key
 
@@ -96,7 +94,7 @@ class MyDataHandler:
         for sentence in self.sent_list:
             sentence = sentence.split()
             for i in range(len(sentence) + 1 - n_gram):
-                keys = [self.__get_key(sentence[j]) for j in range(i, i + n_gram)]
+                keys = [self.__get_key(sentence[j], tagging=False) for j in range(i, i + n_gram)]
                 key = ' '.join(keys[0:-1])
 
                 # vocab = { key: [ num of key, { given key: num of given key, ... , } ],
@@ -111,7 +109,14 @@ class MyDataHandler:
         for sentence in self.sent_list:
             sentence = sentence.split()
             for i in range(len(sentence) + 1 - n_gram):
-                keys = [self.__get_key(sentence[j]) for j in range(i, i + n_gram)]
+                keys = list()
+
+                for j in range(i, i + n_gram):
+                    if j == i + n_gram - 1:
+                        keys.append(self.__get_key(sentence[j], tagging=True))
+                    else:
+                        keys.append(self.__get_key(sentence[j], tagging=False))
+
                 key = ' '.join(keys[0:-1])
                 target_key = keys[-1]
                 target_dict = self.vocab_dict[key][1]
@@ -138,8 +143,6 @@ class MyDataHandler:
     def pre_processing(self):
         self.__set_sentence_list()
         self.__set_vocab_dict()
-
-        # print(len(self.vocab_dict))
 
     def print_dict(self):
         keys = sorted(self.vocab_dict.keys())
