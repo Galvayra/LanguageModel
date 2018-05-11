@@ -121,10 +121,19 @@ class MyDataHandler:
                 else:
                     target_dict[target_key] += 1
 
+    def __set_probability(self):
+        for value in self.vocab_dict.values():
+            total = value[0]
+            target_dict = value[1]
+
+            for key in target_dict:
+                target_dict[key] = target_dict[key] / total
+
     # set vocab for counting
     def __set_vocab_dict(self, n_gram=SET_N_GRAM):
         self.__init_vocab_dict(n_gram)
         self.__extend_vocab_dict(n_gram)
+        self.__set_probability()
 
     def pre_processing(self):
         self.__set_sentence_list()
