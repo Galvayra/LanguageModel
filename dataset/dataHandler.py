@@ -10,6 +10,7 @@ class MyDataHandler:
         self.__sent_list = list()
         self.__sentence = str()
         self.__is_sent = False
+        self.end_flag = END_FLAG
 
     @property
     def vocab_dict(self):
@@ -38,6 +39,9 @@ class MyDataHandler:
     @is_sent.setter
     def is_sent(self, is_sent):
         self.__is_sent = is_sent
+
+    def init_sentence(self):
+        self.sentence = str()
 
     @staticmethod
     def __read_corpus():
@@ -75,8 +79,10 @@ class MyDataHandler:
         # to append last sentence in the list
         self.__append_sent_in_list()
 
-    @staticmethod
-    def get_key(word, tagging=True):
+    def get_key(self, word, tagging=True):
+        if word == self.end_flag:
+            return word
+
         word = word.split('/')
 
         if len(word) > 1:
@@ -94,7 +100,7 @@ class MyDataHandler:
         for sentence in self.sent_list:
             sentence = sentence.split()
             for i in range(len(sentence) + 1 - n_gram):
-                keys = [self.__get_key(sentence[j], tagging=False) for j in range(i, i + n_gram)]
+                keys = [self.get_key(sentence[j], tagging=False) for j in range(i, i + n_gram)]
                 key = ' '.join(keys[0:-1])
 
                 # vocab = { key: [ num of key, { given key: num of given key, ... , } ],
@@ -113,26 +119,26 @@ class MyDataHandler:
 
                 for j in range(i, i + n_gram):
                     if j == i + n_gram - 1:
-                        keys.append(self.__get_key(sentence[j], tagging=True))
+                        keys.append(self.get_key(sentence[j], tagging=True))
                     else:
-                        keys.append(self.__get_key(sentence[j], tagging=False))
+                        keys.append(self.get_key(sentence[j], tagging=False))
 
                 key = ' '.join(keys[0:-1])
                 target_key = keys[-1]
-                target_dict = self.vocab_dict[key][1]
+                prob_dict = self.vocab_dict[key][1]
 
-                if target_key not in target_dict:
-                    target_dict[target_key] = 1
+                if target_key not in prob_dict:
+                    prob_dict[target_key] = 1
                 else:
-                    target_dict[target_key] += 1
+                    prob_dict[target_key] += 1
 
     def __set_probability(self):
         for value in self.vocab_dict.values():
             total = value[0]
-            target_dict = value[1]
+            prob_dict = value[1]
 
-            for key in target_dict:
-                target_dict[key] = target_dict[key] / total
+            for key in prob_dict:
+                prob_dict[key] = prob_dict[key] / total
 
     # set vocab for counting
     def __set_vocab_dict(self, n_gram=SET_N_GRAM):
