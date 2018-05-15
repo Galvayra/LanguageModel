@@ -40,8 +40,8 @@ class MyDataHandler:
     def is_sent(self, is_sent):
         self.__is_sent = is_sent
 
-    def init_sentence(self):
-        self.sentence = str()
+    def init_sentence(self, word=str()):
+        self.sentence = word
 
     @staticmethod
     def __read_corpus():

@@ -17,6 +17,10 @@ class SentenceMaker(MyDataHandler):
             return False
 
     def __sentence_maker(self, prob_dict):
+        if not prob_dict:
+            self.init_sentence()
+            return
+
         max_key_list = list()
         max_value = float()
 
@@ -27,9 +31,10 @@ class SentenceMaker(MyDataHandler):
             elif v == max_value:
                 max_key_list.append(k)
 
+        # get arg max from key list
         max_key = self.get_key(random.choice(max_key_list), tagging=False)
 
-        # finish
+        # if max key is "</s>"
         if max_key == self.end_flag:
             return
 
@@ -40,11 +45,10 @@ class SentenceMaker(MyDataHandler):
         word = input("\nInput word in dictionary(EXIT) - ")
 
         while word != "EXIT":
-            prob_dict = self.__get_prob_dict(word)
+            self.init_sentence(word + " ")
+            self.__sentence_maker(self.__get_prob_dict(word))
 
-            if prob_dict:
-                self.sentence = word + " "
-                self.__sentence_maker(prob_dict)
+            if self.sentence:
                 print(self.sentence)
             else:
                 print("\nThere is no key in dict!\n")
