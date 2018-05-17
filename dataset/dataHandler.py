@@ -95,6 +95,12 @@ class MyDataHandler:
 
         return key
 
+    def get_key_from_sent(self):
+        sent_list = self.sentence.split()
+        key = sent_list[len(sent_list)-N_GRAM+1:]
+
+        return " ".join(key)
+
     # initialize vocab using count
     def __init_vocab_dict(self, n_gram):
         for sentence in self.sent_list:
