@@ -46,7 +46,7 @@ class MyDataHandler:
     @staticmethod
     def __read_corpus():
         try:
-            with open(dir_path + corpus_path, 'r') as r_file:
+            with open(PATH_CORPUS + NAME_CORPUS, 'r') as r_file:
                 lines = r_file.readlines()
                 return lines
         except FileNotFoundError:
@@ -141,7 +141,7 @@ class MyDataHandler:
                 prob_dict[key] = prob_dict[key] / total
 
     # set vocab for counting
-    def __set_vocab_dict(self, n_gram=SET_N_GRAM):
+    def __set_vocab_dict(self, n_gram=N_GRAM):
         self.__init_vocab_dict(n_gram)
         self.__extend_vocab_dict(n_gram)
         self.__set_probability()
@@ -168,10 +168,10 @@ class MyDataHandler:
             return dump_dict
 
         try:
-            with open(dir_path + save_path, 'w') as w_file:
+            with open(PATH_SAVE + NAME_SAVE, 'w') as w_file:
                 json.dump(__sorted(self.vocab_dict), w_file, indent=4)
                 print("\n\nSuccess Save File !! \n")
-                print("File name is", "'" + save_path + "'", "in the", "'" + dir_path[:-1] + "'", "directory", "\n\n")
+                print("File name is", "'" + NAME_SAVE + "'", "in the", "'" + PATH_SAVE[:-1] + "'", "directory", "\n\n")
         except FileNotFoundError:
             print("Can not save dump file!\n\n")
 
@@ -180,9 +180,9 @@ class MyDataHandler:
             for k in sorted(vocab_dict.keys()):
                 self.vocab_dict[k] = vocab_dict[k]
         try:
-            with open(dir_path + save_path, 'r') as r_file:
+            with open(PATH_SAVE + NAME_SAVE, 'r') as r_file:
                 __load(json.load(r_file))
-                print("\nSuccess loading from", "'" + save_path + "'", "!!\n\n")
+                print("\nSuccess loading from", "'" + NAME_SAVE + "'", "!!\n\n")
                 return True
         except FileNotFoundError:
             print("\nCan not find to load file!\n\n")
