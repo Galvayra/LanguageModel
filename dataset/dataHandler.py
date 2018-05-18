@@ -40,13 +40,13 @@ class MyDataHandler:
     def is_sent(self, is_sent):
         self.__is_sent = is_sent
 
-    def init_sentence(self):
-        self.sentence = str()
+    def init_sentence(self, word=str()):
+        self.sentence = word
 
     @staticmethod
     def __read_corpus():
         try:
-            with open(dir_path + corpus_path, 'r') as r_file:
+            with open(PATH_CORPUS + NAME_CORPUS, 'r') as r_file:
                 lines = r_file.readlines()
                 return lines
         except FileNotFoundError:
@@ -95,6 +95,12 @@ class MyDataHandler:
 
         return key
 
+    def get_key_from_sent(self):
+        sent_list = self.sentence.split()
+        key = sent_list[len(sent_list)-N_GRAM+1:]
+
+        return " ".join(key)
+
     # initialize vocab using count
     def __init_vocab_dict(self, n_gram):
         for sentence in self.sent_list:
@@ -141,7 +147,7 @@ class MyDataHandler:
                 prob_dict[key] = prob_dict[key] / total
 
     # set vocab for counting
-    def __set_vocab_dict(self, n_gram=SET_N_GRAM):
+    def __set_vocab_dict(self, n_gram=N_GRAM):
         self.__init_vocab_dict(n_gram)
         self.__extend_vocab_dict(n_gram)
         self.__set_probability()
@@ -168,10 +174,10 @@ class MyDataHandler:
             return dump_dict
 
         try:
-            with open(dir_path + save_path, 'w') as w_file:
+            with open(PATH_SAVE + NAME_SAVE, 'w') as w_file:
                 json.dump(__sorted(self.vocab_dict), w_file, indent=4)
                 print("\n\nSuccess Save File !! \n")
-                print("File name is", "'" + save_path + "'", "in the", "'" + dir_path[:-1] + "'", "directory", "\n\n")
+                print("File name is", "'" + NAME_SAVE + "'", "in the", "'" + PATH_SAVE[:-1] + "'", "directory", "\n\n")
         except FileNotFoundError:
             print("Can not save dump file!\n\n")
 
@@ -180,9 +186,9 @@ class MyDataHandler:
             for k in sorted(vocab_dict.keys()):
                 self.vocab_dict[k] = vocab_dict[k]
         try:
-            with open(dir_path + save_path, 'r') as r_file:
+            with open(PATH_SAVE + NAME_SAVE, 'r') as r_file:
                 __load(json.load(r_file))
-                print("\nSuccess loading from", "'" + save_path + "'", "!!\n\n")
+                print("\nSuccess loading from", "'" + NAME_SAVE + "'", "!!\n\n")
                 return True
         except FileNotFoundError:
             print("\nCan not find to load file!\n\n")
