@@ -1,0 +1,4266 @@
+{
+    "$": [
+        3,
+        {
+            "29,000/CD": 0.3333333333333333,
+            "40,000/CD": 0.3333333333333333,
+            "50,000/CD": 0.3333333333333333
+        }
+    ],
+    "''": [
+        4,
+        {
+            "vertical-restraints/NNS": 0.25,
+            "the/DT": 0.25,
+            "antitrust/JJ": 0.25,
+            "in/IN": 0.25
+        }
+    ],
+    "'s": [
+        19,
+        {
+            "appointment/NN": 0.05263157894736842,
+            "antitrust/NNP": 0.05263157894736842,
+            "ascent/NN": 0.05263157894736842,
+            "own/JJ": 0.05263157894736842,
+            "ban/NN": 0.05263157894736842,
+            "choice/NN": 0.05263157894736842,
+            "efforts/NNS": 0.05263157894736842,
+            "antitrust/JJ": 0.05263157894736842,
+            "biggest/JJS": 0.05263157894736842,
+            "awareness/NN": 0.05263157894736842,
+            "merger/NN": 0.05263157894736842,
+            "interpretation/NN": 0.05263157894736842,
+            "treatment/NN": 0.05263157894736842,
+            "proposed/VBN": 0.05263157894736842,
+            "confirmation/NN": 0.05263157894736842,
+            "council/NNP": 0.05263157894736842,
+            "pledges/NNS": 0.05263157894736842,
+            "specifications/NNS": 0.05263157894736842,
+            "enforcement/NN": 0.05263157894736842
+        }
+    ],
+    ",": [
+        49,
+        {
+            "private/JJ": 0.02040816326530612,
+            "legislators/NNS": 0.02040816326530612,
+            "however/RB": 0.02040816326530612,
+            "is/VBZ": 0.02040816326530612,
+            "mr./NNP": 0.12244897959183673,
+            "the/DT": 0.22448979591836735,
+            "such/JJ": 0.02040816326530612,
+            "had/VBD": 0.02040816326530612,
+            "but/CC": 0.10204081632653061,
+            "that/DT": 0.02040816326530612,
+            "bid-rigging/NN": 0.02040816326530612,
+            "economically/RB": 0.02040816326530612,
+            "lawyers/NNS": 0.02040816326530612,
+            "moving/NN": 0.02040816326530612,
+            "bakeries/NNS": 0.02040816326530612,
+            "individual/JJ": 0.02040816326530612,
+            "obscure/JJ": 0.02040816326530612,
+            "both/DT": 0.02040816326530612,
+            "and/CC": 0.04081632653061224,
+            "unless/IN": 0.02040816326530612,
+            "will/MD": 0.02040816326530612,
+            "product/NN": 0.02040816326530612,
+            "resource-intensive/JJ": 0.02040816326530612,
+            "modest/JJ": 0.02040816326530612,
+            "richard/NNP": 0.02040816326530612,
+            "for/IN": 0.02040816326530612,
+            "he/PRP": 0.02040816326530612,
+            "formerly/RB": 0.02040816326530612,
+            "teaches/VBZ": 0.02040816326530612
+        }
+    ],
+    "-": [
+        1,
+        {
+            "or/CC": 1.0
+        }
+    ],
+    "--": [
+        1,
+        {
+            "arguably/RB": 1.0
+        }
+    ],
+    ".": [
+        57,
+        {
+            "</s>": 1.0
+        }
+    ],
+    "10": [
+        1,
+        {
+            "years/NNS": 1.0
+        }
+    ],
+    "108": [
+        1,
+        {
+            "non-merger/JJ": 1.0
+        }
+    ],
+    "11": [
+        1,
+        {
+            "./.": 1.0
+        }
+    ],
+    "1900": [
+        1,
+        {
+            "./.": 1.0
+        }
+    ],
+    "1970s": [
+        1,
+        {
+            "when/WRB": 1.0
+        }
+    ],
+    "1973": [
+        1,
+        {
+            "through/IN": 1.0
+        }
+    ],
+    "1973-1981": [
+        1,
+        {
+            "to/TO": 1.0
+        }
+    ],
+    "1981": [
+        3,
+        {
+            "through/IN": 0.6666666666666666,
+            ",/,": 0.3333333333333333
+        }
+    ],
+    "1981-1988": [
+        1,
+        {
+            ",/,": 1.0
+        }
+    ],
+    "1988": [
+        2,
+        {
+            ",/,": 1.0
+        }
+    ],
+    "29,000": [
+        1,
+        {
+            "lags/VBZ": 1.0
+        }
+    ],
+    "40,000": [
+        1,
+        {
+            "to/TO": 1.0
+        }
+    ],
+    "47": [
+        1,
+        {
+            "to/TO": 1.0
+        }
+    ],
+    "50,000": [
+        1,
+        {
+            "behind/IN": 1.0
+        }
+    ],
+    "500": [
+        2,
+        {
+            "companies/NNS": 0.5,
+            "firms/NNS": 0.5
+        }
+    ],
+    "8": [
+        1,
+        {
+            "./.": 1.0
+        }
+    ],
+    "<s>": [
+        63,
+        {
+            "james/NNP": 0.015873015873015872,
+            "from/IN": 0.07936507936507936,
+            "the/DT": 0.2222222222222222,
+            "though/IN": 0.031746031746031744,
+            "this/DT": 0.047619047619047616,
+            "first/RB": 0.015873015873015872,
+            "second/NNP": 0.015873015873015872,
+            "that/WDT": 0.07936507936507936,
+            "so-called/JJ": 0.015873015873015872,
+            "reagan/NNP": 0.015873015873015872,
+            "third/JJ": 0.015873015873015872,
+            "parties/NNS": 0.015873015873015872,
+            "finally/RB": 0.015873015873015872,
+            "critics/NNS": 0.015873015873015872,
+            "mr./NNP": 0.031746031746031744,
+            "today/NN": 0.015873015873015872,
+            "agencies/NNS": 0.015873015873015872,
+            "current/JJ": 0.015873015873015872,
+            "even/RB": 0.031746031746031744,
+            "joseph/NNP": 0.015873015873015872,
+            "''/''": 0.015873015873015872,
+            "indeed/RB": 0.015873015873015872,
+            "a/DT": 0.031746031746031744,
+            "despite/IN": 0.015873015873015872,
+            "not/RB": 0.015873015873015872,
+            "these/DT": 0.015873015873015872,
+            "although/IN": 0.015873015873015872,
+            "experience/NN": 0.015873015873015872,
+            "bush/NNP": 0.015873015873015872,
+            "like/IN": 0.015873015873015872,
+            "two/CD": 0.015873015873015872,
+            "unlike/IN": 0.015873015873015872,
+            "bringing/VBG": 0.015873015873015872,
+            "because/IN": 0.015873015873015872,
+            "for/IN": 0.015873015873015872,
+            "attention/NN": 0.015873015873015872
+        }
+    ],
+    "``": [
+        4,
+        {
+            "economically/RB": 0.25,
+            "a/DT": 0.25,
+            "rejuvenated/VBN": 0.25,
+            "ease/NN": 0.25
+        }
+    ],
+    "a": [
+        28,
+        {
+            "single-minded/JJ": 0.03571428571428571,
+            "break/NN": 0.03571428571428571,
+            "manufacturer/NN": 0.03571428571428571,
+            "recurring/VBG": 0.03571428571428571,
+            "total/NN": 0.03571428571428571,
+            "hapless/JJ": 0.03571428571428571,
+            "host/NN": 0.03571428571428571,
+            "dramatic/JJ": 0.03571428571428571,
+            "handful/NN": 0.03571428571428571,
+            "good/JJ": 0.03571428571428571,
+            "slow/JJ": 0.03571428571428571,
+            "job/NN": 0.03571428571428571,
+            "federal/JJ": 0.03571428571428571,
+            "role/NN": 0.03571428571428571,
+            "``/``": 0.03571428571428571,
+            "daunting/VBG": 0.03571428571428571,
+            "second/JJ": 0.10714285714285714,
+            "few/JJ": 0.03571428571428571,
+            "nominal/JJ": 0.03571428571428571,
+            "substantially/RB": 0.03571428571428571,
+            "tighter/JJR": 0.03571428571428571,
+            "member/NN": 0.03571428571428571,
+            "moderation/NN": 0.03571428571428571,
+            "heavier/JJR": 0.03571428571428571,
+            "field/NN": 0.03571428571428571,
+            "greater/JJR": 0.03571428571428571
+        }
+    ],
+    "abandoned": [
+        1,
+        {
+            "by/IN": 1.0
+        }
+    ],
+    "ability": [
+        1,
+        {
+            "of/IN": 1.0
+        }
+    ],
+    "about": [
+        3,
+        {
+            "to/TO": 0.3333333333333333,
+            "the/DT": 0.3333333333333333,
+            "$/$": 0.3333333333333333
+        }
+    ],
+    "above": [
+        1,
+        {
+            "the/DT": 1.0
+        }
+    ],
+    "abreast": [
+        1,
+        {
+            "of/IN": 1.0
+        }
+    ],
+    "abusive": [
+        1,
+        {
+            "conduct/NN": 1.0
+        }
+    ],
+    "academics": [
+        1,
+        {
+            "have/VBP": 1.0
+        }
+    ],
+    "acceptable": [
+        1,
+        {
+            "case/NN": 1.0
+        }
+    ],
+    "acquisition": [
+        1,
+        {
+            "of/IN": 1.0
+        }
+    ],
+    "act": [
+        1,
+        {
+            "'s/POS": 1.0
+        }
+    ],
+    "active": [
+        1,
+        {
+            "state/NN": 1.0
+        }
+    ],
+    "activity": [
+        4,
+        {
+            "and/CC": 0.25,
+            "is/VBZ": 0.25,
+            "was/VBD": 0.25,
+            "shifted/VBD": 0.25
+        }
+    ],
+    "adjustment": [
+        1,
+        {
+            "but/CC": 1.0
+        }
+    ],
+    "adjustments": [
+        1,
+        {
+            "in/IN": 1.0
+        }
+    ],
+    "administration": [
+        5,
+        {
+            "nominees/NNS": 0.2,
+            "frequently/RB": 0.2,
+            "pursued/VBD": 0.2,
+            "resembled/VBD": 0.2,
+            ",/,": 0.2
+        }
+    ],
+    "adopted": [
+        1,
+        {
+            "a/DT": 1.0
+        }
+    ],
+    "advisers": [
+        1,
+        {
+            "suggests/VBZ": 1.0
+        }
+    ],
+    "against": [
+        2,
+        {
+            "single-firm/JJ": 0.5,
+            "distribution/NN": 0.5
+        }
+    ],
+    "agencies": [
+        9,
+        {
+            "adopted/VBD": 0.1111111111111111,
+            "largely/RB": 0.1111111111111111,
+            "stopped/VBD": 0.1111111111111111,
+            "substantially/RB": 0.1111111111111111,
+            "brought/VBD": 0.1111111111111111,
+            "have/VBP": 0.1111111111111111,
+            ",/,": 0.1111111111111111,
+            "rarely/RB": 0.1111111111111111,
+            "to/TO": 0.1111111111111111
+        }
+    ],
+    "agency": [
+        1,
+        {
+            "are/VBP": 1.0
+        }
+    ],
+    "agenda": [
+        1,
+        {
+            "./.": 1.0
+        }
+    ],
+    "aggressive": [
+        2,
+        {
+            "campaign/NN": 0.5,
+            "enforcement/NN": 0.5
+        }
+    ],
+    "ago": [
+        2,
+        {
+            "./.": 0.5,
+            ",/,": 0.5
+        }
+    ],
+    "agreements": [
+        1,
+        {
+            "among/IN": 1.0
+        }
+    ],
+    "all": [
+        1,
+        {
+            "points/NNS": 1.0
+        }
+    ],
+    "also": [
+        3,
+        {
+            "benefited/VBN": 0.3333333333333333,
+            "would/MD": 0.3333333333333333,
+            "may/MD": 0.3333333333333333
+        }
+    ],
+    "although": [
+        1,
+        {
+            "important/JJ": 1.0
+        }
+    ],
+    "among": [
+        1,
+        {
+            "direct/JJ": 1.0
+        }
+    ],
+    "an": [
+        9,
+        {
+            "enthusiastic/JJ": 0.1111111111111111,
+            "aggressive/JJ": 0.1111111111111111,
+            "expanded/VBN": 0.1111111111111111,
+            "erosion/NN": 0.1111111111111111,
+            "intent/NN": 0.1111111111111111,
+            "industry/NN": 0.1111111111111111,
+            "occasional/JJ": 0.2222222222222222,
+            "acceptable/JJ": 0.1111111111111111
+        }
+    ],
+    "and": [
+        26,
+        {
+            "academics/NNS": 0.038461538461538464,
+            "will/MD": 0.038461538461538464,
+            "federal/NNP": 0.038461538461538464,
+            "content/NN": 0.038461538461538464,
+            "consolidate/VB": 0.038461538461538464,
+            "output-restricting/JJ": 0.038461538461538464,
+            "the/DT": 0.038461538461538464,
+            "attempted/VBN": 0.038461538461538464,
+            "raise/VB": 0.038461538461538464,
+            "market-allocation/JJ": 0.038461538461538464,
+            "storage/NN": 0.038461538461538464,
+            "a/DT": 0.038461538461538464,
+            "fundamental/JJ": 0.038461538461538464,
+            "ftc/NNP": 0.038461538461538464,
+            "horizontal-restraints/NNS": 0.038461538461538464,
+            "forseeable/JJ": 0.038461538461538464,
+            "retrain/VB": 0.038461538461538464,
+            "can/MD": 0.038461538461538464,
+            "remain/VB": 0.038461538461538464,
+            "bush/NNP": 0.038461538461538464,
+            "monopolization/NN": 0.038461538461538464,
+            "promotional/JJ": 0.038461538461538464,
+            "it/PRP": 0.038461538461538464,
+            "policy/NN": 0.038461538461538464,
+            "other/JJ": 0.038461538461538464,
+            "most/RBS": 0.038461538461538464
+        }
+    ],
+    "antitrust": [
+        24,
+        {
+            "division/NNP": 0.375,
+            "activity/NN": 0.041666666666666664,
+            "program/NN": 0.125,
+            "agencies/NNS": 0.125,
+            "practices/NNS": 0.041666666666666664,
+            "approaches/NNS": 0.041666666666666664,
+            "infrastructure/NN": 0.041666666666666664,
+            "expenditures/NNS": 0.041666666666666664,
+            "enforcement/NN": 0.041666666666666664,
+            "officials/NNS": 0.08333333333333333,
+            ",/,": 0.041666666666666664
+        }
+    ],
+    "any": [
+        2,
+        {
+            "eight-year/JJ": 0.5,
+            "effort/NN": 0.5
+        }
+    ],
+    "apply": [
+        1,
+        {
+            "a/DT": 1.0
+        }
+    ],
+    "appointees": [
+        1,
+        {
+            "in/IN": 1.0
+        }
+    ],
+    "appointment": [
+        2,
+        {
+            "to/TO": 0.5,
+            "at/IN": 0.5
+        }
+    ],
+    "approaches": [
+        2,
+        {
+            "./.": 0.5,
+            "is/VBZ": 0.5
+        }
+    ],
+    "approval": [
+        2,
+        {
+            "that/IN": 0.5,
+            "for/IN": 0.5
+        }
+    ],
+    "are": [
+        3,
+        {
+            "roughly/RB": 0.3333333333333333,
+            "staggering/JJ": 0.3333333333333333,
+            "high-risk/JJ": 0.3333333333333333
+        }
+    ],
+    "area": [
+        1,
+        {
+            "destined/VBN": 1.0
+        }
+    ],
+    "arguably": [
+        1,
+        {
+            "the/DT": 1.0
+        }
+    ],
+    "argue": [
+        1,
+        {
+            "that/IN": 1.0
+        }
+    ],
+    "arrest": [
+        1,
+        {
+            "the/DT": 1.0
+        }
+    ],
+    "arrival": [
+        1,
+        {
+            "of/IN": 1.0
+        }
+    ],
+    "as": [
+        5,
+        {
+            "resale/NN": 0.4,
+            "common/JJ": 0.2,
+            "unicorns/NNS": 0.2,
+            "a/DT": 0.2
+        }
+    ],
+    "ascent": [
+        1,
+        {
+            "./.": 1.0
+        }
+    ],
+    "asphalt": [
+        1,
+        {
+            "suppliers/NNS": 1.0
+        }
+    ],
+    "associations": [
+        1,
+        {
+            "and/CC": 1.0
+        }
+    ],
+    "assumptions": [
+        1,
+        {
+            "about/IN": 1.0
+        }
+    ],
+    "at": [
+        4,
+        {
+            "will/NN": 0.25,
+            "major/JJ": 0.25,
+            "the/DT": 0.25,
+            "george/NNP": 0.25
+        }
+    ],
+    "attack": [
+        2,
+        {
+            "dominant/JJ": 0.5,
+            "a/DT": 0.5
+        }
+    ],
+    "attempted": [
+        2,
+        {
+            "monopolization/NN": 1.0
+        }
+    ],
+    "attention": [
+        1,
+        {
+            "to/TO": 1.0
+        }
+    ],
+    "attorneys": [
+        2,
+        {
+            "to/TO": 0.5,
+            "general/JJ": 0.5
+        }
+    ],
+    "awareness": [
+        1,
+        {
+            "of/IN": 1.0
+        }
+    ],
+    "away": [
+        1,
+        {
+            "from/IN": 1.0
+        }
+    ],
+    "bakeries": [
+        1,
+        {
+            ",/,": 1.0
+        }
+    ],
+    "ban": [
+        1,
+        {
+            "on/IN": 1.0
+        }
+    ],
+    "baseball": [
+        1,
+        {
+            "umpire/NN": 1.0
+        }
+    ],
+    "be": [
+        5,
+        {
+            "created/VBN": 0.2,
+            "to/TO": 0.2,
+            "surprising/JJ": 0.2,
+            "small/JJ": 0.2,
+            "used/VBN": 0.2
+        }
+    ],
+    "bear": [
+        2,
+        {
+            "a/DT": 0.5,
+            "to/TO": 0.5
+        }
+    ],
+    "because": [
+        1,
+        {
+            "recent/JJ": 1.0
+        }
+    ],
+    "been": [
+        3,
+        {
+            "a/DT": 0.3333333333333333,
+            "carried/VBN": 0.3333333333333333,
+            "examining/VBG": 0.3333333333333333
+        }
+    ],
+    "begin": [
+        1,
+        {
+            "to/TO": 1.0
+        }
+    ],
+    "behavior": [
+        2,
+        {
+            "./.": 0.5,
+            "in/IN": 0.5
+        }
+    ],
+    "behind": [
+        1,
+        {
+            "the/DT": 1.0
+        }
+    ],
+    "belief": [
+        1,
+        {
+            "that/IN": 1.0
+        }
+    ],
+    "belt": [
+        1,
+        {
+            "./.": 1.0
+        }
+    ],
+    "benefited": [
+        1,
+        {
+            "from/IN": 1.0
+        }
+    ],
+    "between": [
+        1,
+        {
+            "reagan/NNP": 1.0
+        }
+    ],
+    "beyond": [
+        1,
+        {
+            "thresholds/NNS": 1.0
+        }
+    ],
+    "bid-rigging": [
+        1,
+        {
+            "and/CC": 1.0
+        }
+    ],
+    "biggest": [
+        1,
+        {
+            "challenge/NN": 1.0
+        }
+    ],
+    "both": [
+        1,
+        {
+            "</s>": 1.0
+        }
+    ],
+    "break": [
+        1,
+        {
+            "with/IN": 1.0
+        }
+    ],
+    "brewing": [
+        1,
+        {
+            "will/MD": 1.0
+        }
+    ],
+    "bright": [
+        1,
+        {
+            "law-school/JJ": 1.0
+        }
+    ],
+    "bringing": [
+        1,
+        {
+            "an/DT": 1.0
+        }
+    ],
+    "brought": [
+        1,
+        {
+            "a/DT": 1.0
+        }
+    ],
+    "burden": [
+        2,
+        {
+            "of/IN": 0.5,
+            "that/IN": 0.5
+        }
+    ],
+    "bureaucracy": [
+        1,
+        {
+            "is/VBZ": 1.0
+        }
+    ],
+    "bush": [
+        4,
+        {
+            "administration/NN": 0.25,
+            "enforcement/NN": 0.25,
+            "antitrust/NNP": 0.25,
+            "antitrust/JJ": 0.25
+        }
+    ],
+    "business": [
+        1,
+        {
+            "of/IN": 1.0
+        }
+    ],
+    "but": [
+        6,
+        {
+            "its/PRP$": 0.16666666666666666,
+            "the/DT": 0.3333333333333333,
+            "they/PRP": 0.16666666666666666,
+            "federal/JJ": 0.16666666666666666,
+            "their/PRP$": 0.16666666666666666
+        }
+    ],
+    "by": [
+        4,
+        {
+            "the/DT": 0.5,
+            "dominant/JJ": 0.25,
+            "default/NN": 0.25
+        }
+    ],
+    "called": [
+        1,
+        {
+            "strikes/NNS": 1.0
+        }
+    ],
+    "calls": [
+        1,
+        {
+            "for/IN": 1.0
+        }
+    ],
+    "campaign": [
+        1,
+        {
+            "to/TO": 1.0
+        }
+    ],
+    "can": [
+        1,
+        {
+            "not/RB": 1.0
+        }
+    ],
+    "candidate": [
+        1,
+        {
+            "for/IN": 1.0
+        }
+    ],
+    "capabilities": [
+        1,
+        {
+            "of/IN": 1.0
+        }
+    ],
+    "capital": [
+        1,
+        {
+            "that/IN": 1.0
+        }
+    ],
+    "carried": [
+        1,
+        {
+            "to/TO": 1.0
+        }
+    ],
+    "case": [
+        3,
+        {
+            "would/MD": 0.3333333333333333,
+            "will/MD": 0.3333333333333333,
+            "also/RB": 0.3333333333333333
+        }
+    ],
+    "cases": [
+        13,
+        {
+            "enforcing/VBG": 0.07692307692307693,
+            "./.": 0.23076923076923078,
+            ",/,": 0.07692307692307693,
+            "involving/VBG": 0.15384615384615385,
+            "designed/VBN": 0.07692307692307693,
+            "often/RB": 0.07692307692307693,
+            "are/VBP": 0.07692307692307693,
+            "will/MD": 0.07692307692307693,
+            "bear/VBP": 0.07692307692307693,
+            "probably/RB": 0.07692307692307693
+        }
+    ],
+    "cautioned": [
+        1,
+        {
+            "that/IN": 1.0
+        }
+    ],
+    "center": [
+        1,
+        {
+            "of/IN": 1.0
+        }
+    ],
+    "chairman": [
+        1,
+        {
+            "janet/NNP": 1.0
+        }
+    ],
+    "challenge": [
+        3,
+        {
+            "mergers/NNS": 0.3333333333333333,
+            "will/MD": 0.3333333333333333,
+            "vertical/JJ": 0.3333333333333333
+        }
+    ],
+    "changes": [
+        1,
+        {
+            "in/IN": 1.0
+        }
+    ],
+    "channel": [
+        1,
+        {
+            "some/DT": 1.0
+        }
+    ],
+    "choice": [
+        2,
+        {
+            "of/IN": 1.0
+        }
+    ],
+    "claiming": [
+        1,
+        {
+            "``/``": 1.0
+        }
+    ],
+    "coincide": [
+        1,
+        {
+            "with/IN": 1.0
+        }
+    ],
+    "collar": [
+        1,
+        {
+            "a/DT": 1.0
+        }
+    ],
+    "collective": [
+        1,
+        {
+            "or/CC": 1.0
+        }
+    ],
+    "commercial": [
+        1,
+        {
+            "pygmies/NNS": 1.0
+        }
+    ],
+    "commission": [
+        2,
+        {
+            "./.": 0.5,
+            "initiated/VBD": 0.5
+        }
+    ],
+    "common": [
+        1,
+        {
+            "as/IN": 1.0
+        }
+    ],
+    "companies": [
+        3,
+        {
+            "./.": 0.3333333333333333,
+            "in/IN": 0.3333333333333333,
+            "of/IN": 0.3333333333333333
+        }
+    ],
+    "compass": [
+        1,
+        {
+            ",/,": 1.0
+        }
+    ],
+    "competition": [
+        1,
+        {
+            "policy/NN": 1.0
+        }
+    ],
+    "competitors": [
+        1,
+        {
+            "./.": 1.0
+        }
+    ],
+    "concealed": [
+        1,
+        {
+            "their/PRP$": 1.0
+        }
+    ],
+    "concentrated": [
+        1,
+        {
+            "markets/NNS": 1.0
+        }
+    ],
+    "concentrations": [
+        1,
+        {
+            "beyond/IN": 1.0
+        }
+    ],
+    "concepts": [
+        1,
+        {
+            "have/VBP": 1.0
+        }
+    ],
+    "conduct": [
+        4,
+        {
+            "by/IN": 0.25,
+            "or/CC": 0.25,
+            ",/,": 0.25,
+            "of/IN": 0.25
+        }
+    ],
+    "confirmation": [
+        1,
+        {
+            "as/IN": 1.0
+        }
+    ],
+    "congress": [
+        1,
+        {
+            "were/VBD": 1.0
+        }
+    ],
+    "conserve": [
+        1,
+        {
+            "and/CC": 1.0
+        }
+    ],
+    "considerable": [
+        1,
+        {
+            "size/NN": 1.0
+        }
+    ],
+    "considerations": [
+        1,
+        {
+            "point/VBP": 1.0
+        }
+    ],
+    "considering": [
+        1,
+        {
+            "a/DT": 1.0
+        }
+    ],
+    "consistency": [
+        1,
+        {
+            "between/IN": 1.0
+        }
+    ],
+    "consolidate": [
+        1,
+        {
+            "the/DT": 1.0
+        }
+    ],
+    "constraint": [
+        1,
+        {
+            "upon/IN": 1.0
+        }
+    ],
+    "content": [
+        1,
+        {
+            "of/IN": 1.0
+        }
+    ],
+    "control": [
+        1,
+        {
+            "over/IN": 1.0
+        }
+    ],
+    "coors": [
+        1,
+        {
+            "'s/POS": 1.0
+        }
+    ],
+    "core": [
+        1,
+        {
+            "elements/NNS": 1.0
+        }
+    ],
+    "costs": [
+        1,
+        {
+            "for/IN": 1.0
+        }
+    ],
+    "could": [
+        1,
+        {
+            "ensnare/VB": 1.0
+        }
+    ],
+    "council": [
+        1,
+        {
+            "of/IN": 1.0
+        }
+    ],
+    "court": [
+        1,
+        {
+            "decisions/NNS": 1.0
+        }
+    ],
+    "created": [
+        1,
+        {
+            "at/IN": 1.0
+        }
+    ],
+    "criminal": [
+        1,
+        {
+            "defendants/NNS": 1.0
+        }
+    ],
+    "critics": [
+        1,
+        {
+            "argue/VBP": 1.0
+        }
+    ],
+    "current": [
+        2,
+        {
+            "wisdom/NN": 0.5,
+            "and/CC": 0.5
+        }
+    ],
+    "daunting": [
+        1,
+        {
+            "task/NN": 1.0
+        }
+    ],
+    "decisions": [
+        1,
+        {
+            "have/VBP": 1.0
+        }
+    ],
+    "declined": [
+        1,
+        {
+            "to/TO": 1.0
+        }
+    ],
+    "default": [
+        1,
+        {
+            "to/TO": 1.0
+        }
+    ],
+    "defeat": [
+        1,
+        {
+            "any/DT": 1.0
+        }
+    ],
+    "defendants": [
+        2,
+        {
+            ",/,": 0.5,
+            "in/IN": 0.5
+        }
+    ],
+    "defense-industry": [
+        1,
+        {
+            "firms/NNS": 1.0
+        }
+    ],
+    "degree": [
+        1,
+        {
+            "./.": 1.0
+        }
+    ],
+    "depart": [
+        1,
+        {
+            "significantly/RB": 1.0
+        }
+    ],
+    "department": [
+        7,
+        {
+            "of/IN": 0.14285714285714285,
+            "reliably/RB": 0.14285714285714285,
+            "and/CC": 0.14285714285714285,
+            "filed/VBD": 0.14285714285714285,
+            "wage/NN": 0.14285714285714285,
+            ",/,": 0.14285714285714285,
+            "has/VBZ": 0.14285714285714285
+        }
+    ],
+    "deregulation": [
+        1,
+        {
+            "experiments/NNS": 1.0
+        }
+    ],
+    "designed": [
+        1,
+        {
+            "to/TO": 1.0
+        }
+    ],
+    "despite": [
+        1,
+        {
+            "calls/NNS": 1.0
+        }
+    ],
+    "destined": [
+        1,
+        {
+            "for/IN": 1.0
+        }
+    ],
+    "development": [
+        1,
+        {
+            "and/CC": 1.0
+        }
+    ],
+    "difficult": [
+        1,
+        {
+            "to/TO": 1.0
+        }
+    ],
+    "direct": [
+        1,
+        {
+            "competitors/NNS": 1.0
+        }
+    ],
+    "direction": [
+        1,
+        {
+            "of/IN": 1.0
+        }
+    ],
+    "distribution": [
+        3,
+        {
+            "methods/NNS": 0.3333333333333333,
+            "restraints/NNS": 0.3333333333333333,
+            "practices/NNS": 0.3333333333333333
+        }
+    ],
+    "division": [
+        10,
+        {
+            "has/VBZ": 0.1,
+            "and/CC": 0.1,
+            "will/MD": 0.1,
+            "would/MD": 0.1,
+            "./.": 0.1,
+            "into/IN": 0.1,
+            "to/TO": 0.1,
+            "seems/VBZ": 0.1,
+            "'s/POS": 0.2
+        }
+    ],
+    "do": [
+        1,
+        {
+            "foreshadow/VB": 1.0
+        }
+    ],
+    "dominant": [
+        2,
+        {
+            "firms/NNS": 0.5,
+            "firm/JJ": 0.5
+        }
+    ],
+    "doubtful": [
+        1,
+        {
+            "issue/NN": 1.0
+        }
+    ],
+    "down": [
+        1,
+        {
+            "to/TO": 1.0
+        }
+    ],
+    "dramatic": [
+        1,
+        {
+            "reinvigoration/NN": 1.0
+        }
+    ],
+    "draw": [
+        1,
+        {
+            "the/DT": 1.0
+        }
+    ],
+    "dropped": [
+        1,
+        {
+            "from/IN": 1.0
+        }
+    ],
+    "during": [
+        1,
+        {
+            "the/DT": 1.0
+        }
+    ],
+    "ease": [
+        1,
+        {
+            "of/IN": 1.0
+        }
+    ],
+    "economic": [
+        1,
+        {
+            "advisers/NNP": 1.0
+        }
+    ],
+    "economically": [
+        2,
+        {
+            "sound/JJ": 0.5,
+            "trivial/JJ": 0.5
+        }
+    ],
+    "effort": [
+        1,
+        {
+            "by/IN": 1.0
+        }
+    ],
+    "efforts": [
+        1,
+        {
+            "to/TO": 1.0
+        }
+    ],
+    "eight-year": [
+        1,
+        {
+            "period/NN": 1.0
+        }
+    ],
+    "elements": [
+        1,
+        {
+            "of/IN": 1.0
+        }
+    ],
+    "endorsed": [
+        1,
+        {
+            "relatively/RB": 1.0
+        }
+    ],
+    "enforce": [
+        1,
+        {
+            "existing/VBG": 1.0
+        }
+    ],
+    "enforcement": [
+        21,
+        {
+            "in/IN": 0.09523809523809523,
+            "activity/NN": 0.14285714285714285,
+            "agencies/NNS": 0.19047619047619047,
+            "./.": 0.09523809523809523,
+            "approaches/NNS": 0.047619047619047616,
+            "agenda/NN": 0.047619047619047616,
+            "policy/NN": 0.09523809523809523,
+            "history/NN": 0.047619047619047616,
+            "against/IN": 0.047619047619047616,
+            "is/VBZ": 0.047619047619047616,
+            "possibilities/NNS": 0.047619047619047616,
+            "</s>": 0.047619047619047616,
+            "net/NN": 0.047619047619047616
+        }
+    ],
+    "enforcing": [
+        2,
+        {
+            "the/DT": 0.5,
+            "rules/NNS": 0.5
+        }
+    ],
+    "ensnare": [
+        1,
+        {
+            "companies/NNS": 1.0
+        }
+    ],
+    "entailed": [
+        1,
+        {
+            "a/DT": 1.0
+        }
+    ],
+    "enthusiastic": [
+        1,
+        {
+            "approval/NN": 1.0
+        }
+    ],
+    "entity": [
+        1,
+        {
+            "to/TO": 1.0
+        }
+    ],
+    "entrants": [
+        1,
+        {
+            "or/CC": 1.0
+        }
+    ],
+    "entry": [
+        1,
+        {
+            "''/''": 1.0
+        }
+    ],
+    "entry-level": [
+        1,
+        {
+            "justice/NNP": 1.0
+        }
+    ],
+    "envy": [
+        1,
+        {
+            "./.": 1.0
+        }
+    ],
+    "era": [
+        1,
+        {
+            ",/,": 1.0
+        }
+    ],
+    "erosion": [
+        1,
+        {
+            "of/IN": 1.0
+        }
+    ],
+    "established": [
+        2,
+        {
+            "in/IN": 0.5,
+            "a/DT": 0.5
+        }
+    ],
+    "even": [
+        2,
+        {
+            "if/IN": 0.5,
+            "with/IN": 0.5
+        }
+    ],
+    "evident": [
+        1,
+        {
+            "in/IN": 1.0
+        }
+    ],
+    "examining": [
+        1,
+        {
+            "the/DT": 1.0
+        }
+    ],
+    "example": [
+        1,
+        {
+            ",/,": 1.0
+        }
+    ],
+    "exceeded": [
+        1,
+        {
+            "the/DT": 1.0
+        }
+    ],
+    "exclusionary": [
+        2,
+        {
+            "or/CC": 0.5,
+            "conduct/NN": 0.5
+        }
+    ],
+    "existing": [
+        3,
+        {
+            "fringe/NN": 0.3333333333333333,
+            "flow/NN": 0.3333333333333333,
+            "prohibitions/NNS": 0.3333333333333333
+        }
+    ],
+    "expanded": [
+        1,
+        {
+            "enforcement/NN": 1.0
+        }
+    ],
+    "expansion": [
+        2,
+        {
+            "in/IN": 0.5,
+            "is/VBZ": 0.5
+        }
+    ],
+    "expect": [
+        1,
+        {
+            "general/JJ": 1.0
+        }
+    ],
+    "expenditures": [
+        1,
+        {
+            ",/,": 1.0
+        }
+    ],
+    "experience": [
+        1,
+        {
+            "with/IN": 1.0
+        }
+    ],
+    "experiments": [
+        1,
+        {
+            "today/NN": 1.0
+        }
+    ],
+    "extended": [
+        1,
+        {
+            "from/IN": 1.0
+        }
+    ],
+    "extremely": [
+        1,
+        {
+            "favorable/JJ": 1.0
+        }
+    ],
+    "extremes": [
+        1,
+        {
+            "./.": 1.0
+        }
+    ],
+    "faces": [
+        1,
+        {
+            "a/DT": 1.0
+        }
+    ],
+    "fallen": [
+        1,
+        {
+            "by/IN": 1.0
+        }
+    ],
+    "fared": [
+        1,
+        {
+            "poorly/RB": 1.0
+        }
+    ],
+    "favorable": [
+        1,
+        {
+            "assumptions/NNS": 1.0
+        }
+    ],
+    "federal": [
+        13,
+        {
+            "antitrust/JJ": 0.15384615384615385,
+            "trade/NNP": 0.15384615384615385,
+            "enforcement/NN": 0.23076923076923078,
+            "policy/NN": 0.07692307692307693,
+            "government/NN": 0.07692307692307693,
+            "agency/NN": 0.07692307692307693,
+            "judges/NNS": 0.07692307692307693,
+            "agencies/NNS": 0.07692307692307693,
+            "cases/NNS": 0.07692307692307693
+        }
+    ],
+    "fell": [
+        1,
+        {
+            "to/TO": 1.0
+        }
+    ],
+    "few": [
+        1,
+        {
+            "of/IN": 1.0
+        }
+    ],
+    "field": [
+        1,
+        {
+            "of/IN": 1.0
+        }
+    ],
+    "filed": [
+        1,
+        {
+            "no/DT": 1.0
+        }
+    ],
+    "finally": [
+        1,
+        {
+            ",/,": 1.0
+        }
+    ],
+    "find": [
+        1,
+        {
+            "it/PRP": 1.0
+        }
+    ],
+    "firm": [
+        1,
+        {
+            "exclusionary/JJ": 1.0
+        }
+    ],
+    "firms": [
+        7,
+        {
+            "./.": 0.42857142857142855,
+            "to/TO": 0.14285714285714285,
+            "dropped/VBD": 0.14285714285714285,
+            ",/,": 0.14285714285714285,
+            "in/IN": 0.14285714285714285
+        }
+    ],
+    "first": [
+        1,
+        {
+            ",/,": 1.0
+        }
+    ],
+    "flow": [
+        1,
+        {
+            "of/IN": 1.0
+        }
+    ],
+    "focus": [
+        2,
+        {
+            "upon/IN": 0.5,
+            "of/IN": 0.5
+        }
+    ],
+    "for": [
+        10,
+        {
+            "indigent/JJ": 0.1,
+            "bright/JJ": 0.1,
+            "more/RBR": 0.1,
+            "the/DT": 0.1,
+            "example/NN": 0.1,
+            "transactions/NNS": 0.1,
+            "some/DT": 0.1,
+            "an/DT": 0.1,
+            "several/JJ": 0.1,
+            "deregulation/NN": 0.1
+        }
+    ],
+    "foreshadow": [
+        1,
+        {
+            "some/DT": 1.0
+        }
+    ],
+    "formerly": [
+        1,
+        {
+            "with/IN": 1.0
+        }
+    ],
+    "forsaken": [
+        1,
+        {
+            "antitrust/JJ": 1.0
+        }
+    ],
+    "forseeable": [
+        1,
+        {
+            "resource/NN": 1.0
+        }
+    ],
+    "fortune": [
+        2,
+        {
+            "500/CD": 1.0
+        }
+    ],
+    "frequently": [
+        1,
+        {
+            "declined/VBD": 1.0
+        }
+    ],
+    "fringe": [
+        1,
+        {
+            "firms/NNS": 1.0
+        }
+    ],
+    "from": [
+        11,
+        {
+            "all/DT": 0.09090909090909091,
+            "the/DT": 0.18181818181818182,
+            "1981/CD": 0.18181818181818182,
+            "extremely/RB": 0.09090909090909091,
+            "1973/CD": 0.09090909090909091,
+            "1973-1981/CD": 0.09090909090909091,
+            "47/CD": 0.09090909090909091,
+            "these/DT": 0.09090909090909091,
+            "substantial/JJ": 0.09090909090909091
+        }
+    ],
+    "ftc": [
+        2,
+        {
+            "chairman/NNP": 0.5,
+            ",/,": 0.5
+        }
+    ],
+    "full": [
+        1,
+        {
+            "keeping/VBG": 1.0
+        }
+    ],
+    "fundamental": [
+        1,
+        {
+            "constraint/NN": 1.0
+        }
+    ],
+    "gain": [
+        1,
+        {
+            "approval/NN": 1.0
+        }
+    ],
+    "general": [
+        2,
+        {
+            "consistency/NN": 0.5,
+            "./.": 0.5
+        }
+    ],
+    "generate": [
+        1,
+        {
+            "genuine/JJ": 1.0
+        }
+    ],
+    "genuine": [
+        1,
+        {
+            "enforcement/NN": 1.0
+        }
+    ],
+    "george": [
+        1,
+        {
+            "mason/NNP": 1.0
+        }
+    ],
+    "getting": [
+        1,
+        {
+            "the/DT": 1.0
+        }
+    ],
+    "going": [
+        1,
+        {
+            "rate/NN": 1.0
+        }
+    ],
+    "good": [
+        1,
+        {
+            "bureaucracy/NN": 1.0
+        }
+    ],
+    "governing": [
+        1,
+        {
+            "large-firm/JJ": 1.0
+        }
+    ],
+    "government": [
+        5,
+        {
+            "from/IN": 0.2,
+            "'s/POS": 0.6,
+            "fared/VBD": 0.2
+        }
+    ],
+    "graduates": [
+        1,
+        {
+            "considering/VBG": 1.0
+        }
+    ],
+    "gravity": [
+        1,
+        {
+            "of/IN": 1.0
+        }
+    ],
+    "greater": [
+        2,
+        {
+            "number/NN": 1.0
+        }
+    ],
+    "growth": [
+        1,
+        {
+            "and/CC": 1.0
+        }
+    ],
+    "guidelines": [
+        3,
+        {
+            "./.": 0.3333333333333333,
+            "during/IN": 0.3333333333333333,
+            "established/VBD": 0.3333333333333333
+        }
+    ],
+    "had": [
+        1,
+        {
+            "been/VBN": 1.0
+        }
+    ],
+    "half": [
+        1,
+        {
+            "their/PRP$": 1.0
+        }
+    ],
+    "handful": [
+        1,
+        {
+            "of/IN": 1.0
+        }
+    ],
+    "hands": [
+        1,
+        {
+            "full/JJ": 1.0
+        }
+    ],
+    "hapless": [
+        1,
+        {
+            ",/,": 1.0
+        }
+    ],
+    "has": [
+        4,
+        {
+            "met/VBN": 0.25,
+            "cautioned/VBN": 0.25,
+            "fallen/VBN": 0.25,
+            "been/VBN": 0.25
+        }
+    ],
+    "have": [
+        7,
+        {
+            "welcomed/VBN": 0.14285714285714285,
+            "inherited/VBN": 0.14285714285714285,
+            "their/PRP$": 0.14285714285714285,
+            "these/DT": 0.14285714285714285,
+            "endorsed/VBN": 0.14285714285714285,
+            "been/VBN": 0.14285714285714285,
+            "increased/VBN": 0.14285714285714285
+        }
+    ],
+    "he": [
+        1,
+        {
+            "suggested/VBD": 1.0
+        }
+    ],
+    "head": [
+        1,
+        {
+            "the/DT": 1.0
+        }
+    ],
+    "heavier": [
+        1,
+        {
+            "burden/NN": 1.0
+        }
+    ],
+    "heavily": [
+        1,
+        {
+            "to/TO": 1.0
+        }
+    ],
+    "high": [
+        1,
+        {
+            "strike/NN": 1.0
+        }
+    ],
+    "high-risk": [
+        1,
+        {
+            ",/,": 1.0
+        }
+    ],
+    "history": [
+        1,
+        {
+            "./.": 1.0
+        }
+    ],
+    "horizontal": [
+        2,
+        {
+            "mergers/NNS": 0.5,
+            "price-fixing/NN": 0.5
+        }
+    ],
+    "horizontal-restraints": [
+        1,
+        {
+            "matters/NNS": 1.0
+        }
+    ],
+    "host": [
+        1,
+        {
+            "of/IN": 1.0
+        }
+    ],
+    "how": [
+        1,
+        {
+            "competition/NN": 1.0
+        }
+    ],
+    "however": [
+        1,
+        {
+            ",/,": 1.0
+        }
+    ],
+    "human": [
+        1,
+        {
+            "capital/NN": 1.0
+        }
+    ],
+    "if": [
+        1,
+        {
+            "congress/NNP": 1.0
+        }
+    ],
+    "ii": [
+        1,
+        {
+            "era/NN": 1.0
+        }
+    ],
+    "immediate": [
+        1,
+        {
+            "and/CC": 1.0
+        }
+    ],
+    "impeded": [
+        1,
+        {
+            ",/,": 1.0
+        }
+    ],
+    "important": [
+        2,
+        {
+            "personnel/NNS": 0.5,
+            "candidate/NN": 0.5
+        }
+    ],
+    "improve": [
+        1,
+        {
+            "the/DT": 1.0
+        }
+    ],
+    "in": [
+        20,
+        {
+            "federal/JJ": 0.1,
+            "terrain/NN": 0.05,
+            "any/DT": 0.05,
+            "the/DT": 0.15,
+            "its/PRP$": 0.05,
+            "1981/CD": 0.05,
+            "washington/NNP": 0.05,
+            "a/DT": 0.05,
+            "getting/VBG": 0.05,
+            "enforcement/NN": 0.05,
+            "merger/NN": 0.1,
+            "an/DT": 0.05,
+            "order/NN": 0.05,
+            "concentrated/VBN": 0.05,
+            "non-merger/JJ": 0.05,
+            "this/DT": 0.05
+        }
+    ],
+    "increase": [
+        1,
+        {
+            "antitrust/JJ": 1.0
+        }
+    ],
+    "increased": [
+        2,
+        {
+            "market/NN": 0.5,
+            "the/DT": 0.5
+        }
+    ],
+    "increasingly": [
+        1,
+        {
+            "active/JJ": 1.0
+        }
+    ],
+    "indeed": [
+        1,
+        {
+            ",/,": 1.0
+        }
+    ],
+    "indicate": [
+        2,
+        {
+            "that/IN": 0.5,
+            "where/WRB": 0.5
+        }
+    ],
+    "indigent": [
+        1,
+        {
+            "criminal/JJ": 1.0
+        }
+    ],
+    "individual": [
+        1,
+        {
+            "physicians/NNS": 1.0
+        }
+    ],
+    "industry": [
+        1,
+        {
+            "in/IN": 1.0
+        }
+    ],
+    "infrastructure": [
+        1,
+        {
+            "./.": 1.0
+        }
+    ],
+    "inherited": [
+        1,
+        {
+            "organizations/NNS": 1.0
+        }
+    ],
+    "initiated": [
+        1,
+        {
+            "three/CD": 1.0
+        }
+    ],
+    "institutional": [
+        1,
+        {
+            "capabilities/NNS": 1.0
+        }
+    ],
+    "intent": [
+        1,
+        {
+            "to/TO": 1.0
+        }
+    ],
+    "interpretation": [
+        1,
+        {
+            "of/IN": 1.0
+        }
+    ],
+    "into": [
+        1,
+        {
+            "a/DT": 1.0
+        }
+    ],
+    "investigations": [
+        1,
+        {
+            "and/CC": 1.0
+        }
+    ],
+    "involving": [
+        2,
+        {
+            "fortune/NNP": 1.0
+        }
+    ],
+    "is": [
+        8,
+        {
+            "that/DT": 0.125,
+            "about/IN": 0.125,
+            "not/RB": 0.125,
+            "the/DT": 0.125,
+            "a/DT": 0.125,
+            "mr./NNP": 0.125,
+            "likely/JJ": 0.125,
+            "vertical-restraints/NNS": 0.125
+        }
+    ],
+    "issue": [
+        1,
+        {
+            ",/,": 1.0
+        }
+    ],
+    "it": [
+        2,
+        {
+            "difficult/JJ": 0.5,
+            "would/MD": 0.5
+        }
+    ],
+    "its": [
+        2,
+        {
+            "degree/NN": 0.5,
+            "own/JJ": 0.5
+        }
+    ],
+    "james": [
+        1,
+        {
+            "rill/NNP": 1.0
+        }
+    ],
+    "janet": [
+        1,
+        {
+            "steiger/NNP": 1.0
+        }
+    ],
+    "job": [
+        1,
+        {
+            "with/IN": 1.0
+        }
+    ],
+    "join": [
+        1,
+        {
+            ",/,": 1.0
+        }
+    ],
+    "joining": [
+        1,
+        {
+            "the/DT": 1.0
+        }
+    ],
+    "joseph": [
+        1,
+        {
+            "schumpeter/NNP": 1.0
+        }
+    ],
+    "judges": [
+        1,
+        {
+            "have/VBP": 1.0
+        }
+    ],
+    "justice": [
+        7,
+        {
+            "'s/POS": 0.14285714285714285,
+            "department/NNP": 0.8571428571428571
+        }
+    ],
+    "keeping": [
+        1,
+        {
+            "abreast/RB": 1.0
+        }
+    ],
+    "knee": [
+        1,
+        {
+            ",/,": 1.0
+        }
+    ],
+    "knows": [
+        1,
+        {
+            "that/IN": 1.0
+        }
+    ],
+    "kovacic": [
+        1,
+        {
+            ",/,": 1.0
+        }
+    ],
+    "lags": [
+        1,
+        {
+            "roughly/RB": 1.0
+        }
+    ],
+    "large": [
+        2,
+        {
+            "horizontal/JJ": 0.5,
+            "companies/NNS": 0.5
+        }
+    ],
+    "large-firm": [
+        2,
+        {
+            "attempted/VBN": 0.5,
+            "pricing/VBG": 0.5
+        }
+    ],
+    "largely": [
+        2,
+        {
+            "abandoned/VBN": 0.5,
+            "removed/VBD": 0.5
+        }
+    ],
+    "law": [
+        3,
+        {
+            "firms/NNS": 0.3333333333333333,
+            "office/NN": 0.3333333333333333,
+            "at/IN": 0.3333333333333333
+        }
+    ],
+    "law-school": [
+        1,
+        {
+            "graduates/NNS": 1.0
+        }
+    ],
+    "lawyers": [
+        1,
+        {
+            "for/IN": 1.0
+        }
+    ],
+    "left": [
+        1,
+        {
+            "./.": 1.0
+        }
+    ],
+    "legislators": [
+        1,
+        {
+            "and/CC": 1.0
+        }
+    ],
+    "letters": [
+        1,
+        {
+            "down/RB": 1.0
+        }
+    ],
+    "level": [
+        1,
+        {
+            "of/IN": 1.0
+        }
+    ],
+    "like": [
+        1,
+        {
+            "the/DT": 1.0
+        }
+    ],
+    "likely": [
+        3,
+        {
+            "depart/VB": 0.3333333333333333,
+            "./.": 0.3333333333333333,
+            "to/TO": 0.3333333333333333
+        }
+    ],
+    "limitations": [
+        1,
+        {
+            "will/MD": 1.0
+        }
+    ],
+    "limited": [
+        1,
+        {
+            "a/DT": 1.0
+        }
+    ],
+    "line": [
+        1,
+        {
+            "./.": 1.0
+        }
+    ],
+    "lowest": [
+        1,
+        {
+            "in/IN": 1.0
+        }
+    ],
+    "maintenance": [
+        2,
+        {
+            ",/,": 0.5,
+            "./.": 0.5
+        }
+    ],
+    "major": [
+        2,
+        {
+            "law/NN": 0.5,
+            "defense-industry/JJ": 0.5
+        }
+    ],
+    "manufacturer": [
+        1,
+        {
+            "'s/POS": 1.0
+        }
+    ],
+    "market": [
+        1,
+        {
+            "concentrations/NNS": 1.0
+        }
+    ],
+    "market-allocation": [
+        1,
+        {
+            "schemes/NNS": 1.0
+        }
+    ],
+    "markets": [
+        2,
+        {
+            "./.": 0.5,
+            "could/MD": 0.5
+        }
+    ],
+    "mason": [
+        1,
+        {
+            "university/NNP": 1.0
+        }
+    ],
+    "matters": [
+        2,
+        {
+            "were/VBD": 0.5,
+            "./.": 0.5
+        }
+    ],
+    "may": [
+        2,
+        {
+            "not/RB": 0.5,
+            "begin/VB": 0.5
+        }
+    ],
+    "member": [
+        1,
+        {
+            "of/IN": 1.0
+        }
+    ],
+    "merged": [
+        1,
+        {
+            "entity/NN": 1.0
+        }
+    ],
+    "merger": [
+        6,
+        {
+            "enforcement/NN": 0.3333333333333333,
+            "investigations/NNS": 0.16666666666666666,
+            "guidelines/NNS": 0.3333333333333333,
+            "cases/NNS": 0.16666666666666666
+        }
+    ],
+    "mergers": [
+        3,
+        {
+            "and/CC": 0.3333333333333333,
+            "</s>": 0.3333333333333333,
+            "than/IN": 0.3333333333333333
+        }
+    ],
+    "mesh": [
+        1,
+        {
+            "./.": 1.0
+        }
+    ],
+    "met": [
+        1,
+        {
+            "an/DT": 1.0
+        }
+    ],
+    "methods": [
+        1,
+        {
+            "./.": 1.0
+        }
+    ],
+    "might": [
+        2,
+        {
+            "wisely/RB": 0.5,
+            "be/VB": 0.5
+        }
+    ],
+    "moderation": [
+        1,
+        {
+            "of/IN": 1.0
+        }
+    ],
+    "modern": [
+        2,
+        {
+            "antitrust/JJ": 0.5,
+            "retrenchment/NN": 0.5
+        }
+    ],
+    "modest": [
+        1,
+        {
+            "expansion/NN": 1.0
+        }
+    ],
+    "monopolization": [
+        4,
+        {
+            "and/CC": 0.5,
+            "./.": 0.25,
+            "cases/NNS": 0.25
+        }
+    ],
+    "more": [
+        3,
+        {
+            "than/IN": 0.6666666666666666,
+            "aggressive/JJ": 0.3333333333333333
+        }
+    ],
+    "most": [
+        3,
+        {
+            "immediate/JJ": 0.3333333333333333,
+            "overlooked/VBN": 0.3333333333333333,
+            "important/JJ": 0.3333333333333333
+        }
+    ],
+    "move": [
+        1,
+        {
+            "to/TO": 1.0
+        }
+    ],
+    "moving": [
+        1,
+        {
+            "and/CC": 1.0
+        }
+    ],
+    "mr.": [
+        14,
+        {
+            "rill/NNP": 0.8571428571428571,
+            "schmalensee/NNP": 0.07142857142857142,
+            "kovacic/NNP": 0.07142857142857142
+        }
+    ],
+    "must": [
+        2,
+        {
+            "surely/RB": 0.5,
+            "bear/VB": 0.5
+        }
+    ],
+    "net": [
+        1,
+        {
+            "also/RB": 1.0
+        }
+    ],
+    "new": [
+        4,
+        {
+            "entrants/NNS": 0.25,
+            "cases/NNS": 0.25,
+            "york/NNP": 0.25,
+            "federal/JJ": 0.25
+        }
+    ],
+    "no": [
+        1,
+        {
+            "vertical-restraint/JJ": 1.0
+        }
+    ],
+    "nominal": [
+        1,
+        {
+            "strike/NN": 1.0
+        }
+    ],
+    "nominees": [
+        1,
+        {
+            "must/MD": 1.0
+        }
+    ],
+    "non-merger": [
+        3,
+        {
+            "enforcement/NN": 0.3333333333333333,
+            "cases/NNS": 0.6666666666666666
+        }
+    ],
+    "not": [
+        5,
+        {
+            "the/DT": 0.2,
+            "likely/RB": 0.2,
+            "be/VB": 0.2,
+            "only/RB": 0.2,
+            "attack/VB": 0.2
+        }
+    ],
+    "noted": [
+        1,
+        {
+            "that/IN": 1.0
+        }
+    ],
+    "noteworthy": [
+        1,
+        {
+            "changes/NNS": 1.0
+        }
+    ],
+    "number": [
+        4,
+        {
+            "fell/VBD": 0.25,
+            "of/IN": 0.75
+        }
+    ],
+    "obscure": [
+        1,
+        {
+            "trade/NN": 1.0
+        }
+    ],
+    "occasional": [
+        2,
+        {
+            "vertical-restraints/NNS": 0.5,
+            "case/NN": 0.5
+        }
+    ],
+    "of": [
+        51,
+        {
+            "justice/NNP": 0.0196078431372549,
+            "the/DT": 0.21568627450980393,
+            "mr./NNP": 0.0196078431372549,
+            "gravity/NN": 0.0196078431372549,
+            "federal/JJ": 0.058823529411764705,
+            "adjustment/NN": 0.0196078431372549,
+            "scrutinizing/VBG": 0.0196078431372549,
+            "distribution/NN": 0.0196078431372549,
+            "new/JJ": 0.058823529411764705,
+            "reagan/NNP": 0.0392156862745098,
+            "108/CD": 0.0196078431372549,
+            "such/JJ": 0.0196078431372549,
+            "asphalt/JJ": 0.0196078431372549,
+            "other/JJ": 0.0196078431372549,
+            "forsaken/VBN": 0.0196078431372549,
+            "10/CD": 0.0196078431372549,
+            "merger/NN": 0.0196078431372549,
+            "more/JJR": 0.0196078431372549,
+            "about/RB": 0.0196078431372549,
+            "a/DT": 0.0196078431372549,
+            "human/JJ": 0.0196078431372549,
+            "modern/JJ": 0.0196078431372549,
+            "them/PRP": 0.0196078431372549,
+            "mergers/NNS": 0.0196078431372549,
+            "cases/NNS": 0.0196078431372549,
+            "coors/NNP": 0.0196078431372549,
+            "stroh/NNP": 0.0196078431372549,
+            "economic/NNP": 0.0196078431372549,
+            "antitrust/JJ": 0.0196078431372549,
+            "proof/NN": 0.0196078431372549,
+            "entry/NN": 0.0196078431372549,
+            "an/DT": 0.0196078431372549,
+            "enforcement/NN": 0.0196078431372549,
+            "large/JJ": 0.0196078431372549,
+            "major/JJ": 0.0196078431372549,
+            "considerable/JJ": 0.0196078431372549
+        }
+    ],
+    "office": [
+        1,
+        {
+            "./.": 1.0
+        }
+    ],
+    "officials": [
+        3,
+        {
+            "often/RB": 0.3333333333333333,
+            "may/MD": 0.3333333333333333,
+            ",/,": 0.3333333333333333
+        }
+    ],
+    "often": [
+        2,
+        {
+            "said/VBD": 0.5,
+            "exceeded/VBN": 0.5
+        }
+    ],
+    "on": [
+        2,
+        {
+            "monopolization/NN": 0.5,
+            "pitches/NNS": 0.5
+        }
+    ],
+    "only": [
+        1,
+        {
+            "have/VBP": 1.0
+        }
+    ],
+    "opportunity": [
+        1,
+        {
+            "costs/NNS": 1.0
+        }
+    ],
+    "or": [
+        6,
+        {
+            "abusive/JJ": 0.16666666666666666,
+            "existing/VBG": 0.16666666666666666,
+            "vertical/JJ": 0.16666666666666666,
+            "new/NNP": 0.16666666666666666,
+            "third-rate/JJ": 0.16666666666666666,
+            "single-firm/JJ": 0.16666666666666666
+        }
+    ],
+    "order": [
+        1,
+        {
+            "to/TO": 1.0
+        }
+    ],
+    "organizations": [
+        1,
+        {
+            "</s>": 1.0
+        }
+    ],
+    "other": [
+        3,
+        {
+            "bush/NNP": 0.3333333333333333,
+            "commercial/JJ": 0.3333333333333333,
+            "procurement/NN": 0.3333333333333333
+        }
+    ],
+    "output": [
+        2,
+        {
+            "and/CC": 0.5,
+            "of/IN": 0.5
+        }
+    ],
+    "output-restricting": [
+        1,
+        {
+            "agreements/NNS": 1.0
+        }
+    ],
+    "over": [
+        1,
+        {
+            "a/DT": 1.0
+        }
+    ],
+    "overlooked": [
+        1,
+        {
+            "and/CC": 1.0
+        }
+    ],
+    "own": [
+        2,
+        {
+            "statements/NNS": 0.5,
+            "guidelines/NNS": 0.5
+        }
+    ],
+    "parade": [
+        1,
+        {
+            "of/IN": 1.0
+        }
+    ],
+    "particularly": [
+        1,
+        {
+            "evident/JJ": 1.0
+        }
+    ],
+    "parties": [
+        1,
+        {
+            "to/TO": 1.0
+        }
+    ],
+    "past": [
+        1,
+        {
+            "antitrust/JJ": 1.0
+        }
+    ],
+    "period": [
+        1,
+        {
+            "since/IN": 1.0
+        }
+    ],
+    "permissive": [
+        1,
+        {
+            "standards/NNS": 1.0
+        }
+    ],
+    "permit": [
+        1,
+        {
+            "the/DT": 1.0
+        }
+    ],
+    "personnel": [
+        1,
+        {
+            "and/CC": 1.0
+        }
+    ],
+    "physicians": [
+        1,
+        {
+            ",/,": 1.0
+        }
+    ],
+    "pitches": [
+        1,
+        {
+            "above/IN": 1.0
+        }
+    ],
+    "plaintiffs": [
+        1,
+        {
+            "must/MD": 1.0
+        }
+    ],
+    "plans": [
+        1,
+        {
+            "to/TO": 1.0
+        }
+    ],
+    "pledges": [
+        1,
+        {
+            "to/TO": 1.0
+        }
+    ],
+    "point": [
+        1,
+        {
+            "away/RB": 1.0
+        }
+    ],
+    "points": [
+        1,
+        {
+            "of/IN": 1.0
+        }
+    ],
+    "policy": [
+        5,
+        {
+            ",/,": 0.4,
+            "is/VBZ": 0.2,
+            "considerations/NNS": 0.2,
+            "might/MD": 0.2
+        }
+    ],
+    "political": [
+        1,
+        {
+            "compass/NN": 1.0
+        }
+    ],
+    "pool": [
+        1,
+        {
+            "to/TO": 1.0
+        }
+    ],
+    "poorly": [
+        1,
+        {
+            "in/IN": 1.0
+        }
+    ],
+    "possibilities": [
+        1,
+        {
+            "./.": 1.0
+        }
+    ],
+    "post": [
+        1,
+        {
+            "world/NNP": 1.0
+        }
+    ],
+    "practices": [
+        2,
+        {
+            "./.": 0.5,
+            "such/JJ": 0.5
+        }
+    ],
+    "practitioners": [
+        1,
+        {
+            ",/,": 1.0
+        }
+    ],
+    "preclude": [
+        1,
+        {
+            "the/DT": 1.0
+        }
+    ],
+    "president": [
+        1,
+        {
+            "'s/POS": 1.0
+        }
+    ],
+    "price": [
+        2,
+        {
+            "maintenance/NN": 1.0
+        }
+    ],
+    "price-fixing": [
+        1,
+        {
+            ",/,": 1.0
+        }
+    ],
+    "prices": [
+        1,
+        {
+            "./.": 1.0
+        }
+    ],
+    "pricing": [
+        1,
+        {
+            ",/,": 1.0
+        }
+    ],
+    "private": [
+        1,
+        {
+            "practitioners/NNS": 1.0
+        }
+    ],
+    "probably": [
+        2,
+        {
+            "conserve/VB": 0.5,
+            "will/MD": 0.5
+        }
+    ],
+    "process": [
+        1,
+        {
+            "--/:": 1.0
+        }
+    ],
+    "procurement": [
+        1,
+        {
+            "markets/NNS": 1.0
+        }
+    ],
+    "product": [
+        1,
+        {
+            "development/NN": 1.0
+        }
+    ],
+    "program": [
+        3,
+        {
+            "./.": 0.6666666666666666,
+            ",/,": 0.3333333333333333
+        }
+    ],
+    "prohibitions": [
+        1,
+        {
+            "against/IN": 1.0
+        }
+    ],
+    "promises": [
+        1,
+        {
+            "of/IN": 1.0
+        }
+    ],
+    "promotional": [
+        1,
+        {
+            "behavior/NN": 1.0
+        }
+    ],
+    "proof": [
+        1,
+        {
+            "when/WRB": 1.0
+        }
+    ],
+    "proposed": [
+        2,
+        {
+            "transactions/NNS": 0.5,
+            "acquisition/NN": 0.5
+        }
+    ],
+    "prosecute": [
+        2,
+        {
+            "``/``": 0.5,
+            "horizontal/JJ": 0.5
+        }
+    ],
+    "prosecution": [
+        1,
+        {
+            "of/IN": 1.0
+        }
+    ],
+    "public": [
+        1,
+        {
+            "merger/NN": 1.0
+        }
+    ],
+    "pursue": [
+        1,
+        {
+            "an/DT": 1.0
+        }
+    ],
+    "pursued": [
+        1,
+        {
+            "an/DT": 1.0
+        }
+    ],
+    "pursuing": [
+        1,
+        {
+            "large-firm/JJ": 1.0
+        }
+    ],
+    "pursuit": [
+        1,
+        {
+            "of/IN": 1.0
+        }
+    ],
+    "pygmies": [
+        1,
+        {
+            "./.": 1.0
+        }
+    ],
+    "raise": [
+        1,
+        {
+            "prices/NNS": 1.0
+        }
+    ],
+    "rarely": [
+        1,
+        {
+            "called/VBD": 1.0
+        }
+    ],
+    "rate": [
+        1,
+        {
+            "at/IN": 1.0
+        }
+    ],
+    "reagan": [
+        18,
+        {
+            "antitrust/NNP": 0.05555555555555555,
+            "antitrust/JJ": 0.2777777777777778,
+            "enforcement/NN": 0.1111111111111111,
+            "justice/NNP": 0.05555555555555555,
+            "officials/NNS": 0.05555555555555555,
+            "non-merger/JJ": 0.05555555555555555,
+            "appointees/NNS": 0.05555555555555555,
+            "administration/NN": 0.16666666666666666,
+            "reduction/NN": 0.05555555555555555,
+            "and/CC": 0.05555555555555555,
+            "merger/NN": 0.05555555555555555
+        }
+    ],
+    "reason": [
+        1,
+        {
+            "to/TO": 1.0
+        }
+    ],
+    "reassert": [
+        1,
+        {
+            "control/NN": 1.0
+        }
+    ],
+    "recent": [
+        1,
+        {
+            "supreme/NNP": 1.0
+        }
+    ],
+    "recruit": [
+        1,
+        {
+            "and/CC": 1.0
+        }
+    ],
+    "recurring": [
+        1,
+        {
+            "target/NN": 1.0
+        }
+    ],
+    "redirected": [
+        1,
+        {
+            "public/JJ": 1.0
+        }
+    ],
+    "reduce": [
+        1,
+        {
+            "output/NN": 1.0
+        }
+    ],
+    "reduction": [
+        1,
+        {
+            "of/IN": 1.0
+        }
+    ],
+    "reinvigoration": [
+        1,
+        {
+            "of/IN": 1.0
+        }
+    ],
+    "rejuvenated": [
+        1,
+        {
+            "''/''": 1.0
+        }
+    ],
+    "relatively": [
+        1,
+        {
+            "permissive/JJ": 1.0
+        }
+    ],
+    "reliably": [
+        1,
+        {
+            "indicate/VBP": 1.0
+        }
+    ],
+    "remain": [
+        1,
+        {
+            "with/IN": 1.0
+        }
+    ],
+    "removed": [
+        1,
+        {
+            "the/DT": 1.0
+        }
+    ],
+    "renew": [
+        1,
+        {
+            "enforcement/NN": 1.0
+        }
+    ],
+    "reorientation": [
+        1,
+        {
+            "entailed/VBD": 1.0
+        }
+    ],
+    "resale": [
+        2,
+        {
+            "price/NN": 1.0
+        }
+    ],
+    "resembled": [
+        1,
+        {
+            "the/DT": 1.0
+        }
+    ],
+    "resource": [
+        1,
+        {
+            "limitations/NNS": 1.0
+        }
+    ],
+    "resource-intensive": [
+        1,
+        {
+            "ventures/NNS": 1.0
+        }
+    ],
+    "resources": [
+        1,
+        {
+            "toward/IN": 1.0
+        }
+    ],
+    "restraints": [
+        3,
+        {
+            ",/,": 0.6666666666666666,
+            "./.": 0.3333333333333333
+        }
+    ],
+    "retrain": [
+        1,
+        {
+            "talented/JJ": 1.0
+        }
+    ],
+    "retrenchment": [
+        1,
+        {
+            "of/IN": 1.0
+        }
+    ],
+    "reverse": [
+        1,
+        {
+            "an/DT": 1.0
+        }
+    ],
+    "revive": [
+        1,
+        {
+            "the/DT": 1.0
+        }
+    ],
+    "richard": [
+        1,
+        {
+            "schmalensee/NNP": 1.0
+        }
+    ],
+    "rightward": [
+        1,
+        {
+            "swing/NN": 1.0
+        }
+    ],
+    "rill": [
+        16,
+        {
+            "'s/POS": 0.4375,
+            "will/MD": 0.125,
+            "antitrust/NNP": 0.125,
+            "and/CC": 0.0625,
+            "faces/VBZ": 0.0625,
+            "knows/VBZ": 0.0625,
+            "plans/VBZ": 0.0625,
+            "appointment/NN": 0.0625
+        }
+    ],
+    "role": [
+        1,
+        {
+            "in/IN": 1.0
+        }
+    ],
+    "roughly": [
+        2,
+        {
+            "half/PDT": 0.5,
+            "$/$": 0.5
+        }
+    ],
+    "rules": [
+        1,
+        {
+            "</s>": 1.0
+        }
+    ],
+    "said": [
+        1,
+        {
+            "they/PRP": 1.0
+        }
+    ],
+    "schemes": [
+        1,
+        {
+            "./.": 1.0
+        }
+    ],
+    "schmalensee": [
+        2,
+        {
+            "'s/POS": 0.5,
+            "has/VBZ": 0.5
+        }
+    ],
+    "schumpeter": [
+        1,
+        {
+            "noted/VBD": 1.0
+        }
+    ],
+    "scrutinizing": [
+        1,
+        {
+            "exclusionary/JJ": 1.0
+        }
+    ],
+    "second": [
+        4,
+        {
+            ",/,": 0.25,
+            "-/:": 0.25,
+            "reason/NN": 0.25,
+            "area/NN": 0.25
+        }
+    ],
+    "seems": [
+        1,
+        {
+            "likely/JJ": 1.0
+        }
+    ],
+    "seldom": [
+        1,
+        {
+            "concealed/VBD": 1.0
+        }
+    ],
+    "several": [
+        2,
+        {
+            "past/JJ": 0.5,
+            "years/NNS": 0.5
+        }
+    ],
+    "sherman": [
+        1,
+        {
+            "act/NNP": 1.0
+        }
+    ],
+    "shifted": [
+        1,
+        {
+            "heavily/RB": 1.0
+        }
+    ],
+    "signal": [
+        1,
+        {
+            "an/DT": 1.0
+        }
+    ],
+    "significantly": [
+        1,
+        {
+            "from/IN": 1.0
+        }
+    ],
+    "since": [
+        2,
+        {
+            "joining/VBG": 0.5,
+            "1900/CD": 0.5
+        }
+    ],
+    "single-firm": [
+        2,
+        {
+            "conduct/NN": 0.5,
+            "behavior/NN": 0.5
+        }
+    ],
+    "single-minded": [
+        1,
+        {
+            "focus/NN": 1.0
+        }
+    ],
+    "size": [
+        2,
+        {
+            "of/IN": 0.5,
+            "./.": 0.5
+        }
+    ],
+    "slow": [
+        1,
+        {
+            "growth/NN": 1.0
+        }
+    ],
+    "small": [
+        1,
+        {
+            "./.": 1.0
+        }
+    ],
+    "smaller": [
+        1,
+        {
+            "firms/NNS": 1.0
+        }
+    ],
+    "so-called": [
+        1,
+        {
+            "vertical/JJ": 1.0
+        }
+    ],
+    "some": [
+        4,
+        {
+            "noteworthy/JJ": 0.25,
+            "concepts/NNS": 0.25,
+            "expansion/NN": 0.25,
+            "resources/NNS": 0.25
+        }
+    ],
+    "sound": [
+        1,
+        {
+            "''/''": 1.0
+        }
+    ],
+    "specifications": [
+        1,
+        {
+            "for/IN": 1.0
+        }
+    ],
+    "speeches": [
+        1,
+        {
+            "do/VBP": 1.0
+        }
+    ],
+    "staggering": [
+        1,
+        {
+            "./.": 1.0
+        }
+    ],
+    "standards": [
+        1,
+        {
+            "governing/VBG": 1.0
+        }
+    ],
+    "state": [
+        1,
+        {
+            "attorneys/NNS": 1.0
+        }
+    ],
+    "statements": [
+        1,
+        {
+            "since/IN": 1.0
+        }
+    ],
+    "steiger": [
+        1,
+        {
+            "have/VBP": 1.0
+        }
+    ],
+    "stopped": [
+        1,
+        {
+            "enforcing/VBG": 1.0
+        }
+    ],
+    "storage": [
+        1,
+        {
+            "firms/NNS": 1.0
+        }
+    ],
+    "strata": [
+        1,
+        {
+            "of/IN": 1.0
+        }
+    ],
+    "strike": [
+        3,
+        {
+            "zone/NN": 0.6666666666666666,
+            "./.": 0.3333333333333333
+        }
+    ],
+    "strikes": [
+        1,
+        {
+            "on/IN": 1.0
+        }
+    ],
+    "stroh": [
+        1,
+        {
+            "brewing/NNP": 1.0
+        }
+    ],
+    "studying": [
+        1,
+        {
+            "how/WRB": 1.0
+        }
+    ],
+    "substantial": [
+        1,
+        {
+            "adjustments/NNS": 1.0
+        }
+    ],
+    "substantially": [
+        2,
+        {
+            "redirected/VBD": 0.5,
+            "greater/JJR": 0.5
+        }
+    ],
+    "success": [
+        1,
+        {
+            "of/IN": 1.0
+        }
+    ],
+    "such": [
+        4,
+        {
+            "as/IN": 0.5,
+            "matters/NNS": 0.25,
+            "cases/NNS": 0.25
+        }
+    ],
+    "suggested": [
+        1,
+        {
+            "that/IN": 1.0
+        }
+    ],
+    "suggests": [
+        1,
+        {
+            "a/DT": 1.0
+        }
+    ],
+    "suppliers": [
+        1,
+        {
+            ",/,": 1.0
+        }
+    ],
+    "supreme": [
+        1,
+        {
+            "court/NNP": 1.0
+        }
+    ],
+    "surely": [
+        1,
+        {
+            "envy/VB": 1.0
+        }
+    ],
+    "surprising": [
+        1,
+        {
+            "for/IN": 1.0
+        }
+    ],
+    "swing": [
+        1,
+        {
+            "in/IN": 1.0
+        }
+    ],
+    "sympathetic": [
+        1,
+        {
+            "to/TO": 1.0
+        }
+    ],
+    "talent": [
+        1,
+        {
+            "pool/NN": 1.0
+        }
+    ],
+    "talented": [
+        1,
+        {
+            "attorneys/NNS": 1.0
+        }
+    ],
+    "target": [
+        1,
+        {
+            "of/IN": 1.0
+        }
+    ],
+    "task": [
+        1,
+        {
+            "in/IN": 1.0
+        }
+    ],
+    "teaches": [
+        1,
+        {
+            "law/NN": 1.0
+        }
+    ],
+    "terrain": [
+        1,
+        {
+            "largely/RB": 1.0
+        }
+    ],
+    "than": [
+        3,
+        {
+            "a/DT": 0.6666666666666666,
+            "the/DT": 0.3333333333333333
+        }
+    ],
+    "that": [
+        17,
+        {
+            "other/JJ": 0.058823529411764705,
+            "mr./NNP": 0.058823529411764705,
+            "the/DT": 0.17647058823529413,
+            "limited/VBD": 0.058823529411764705,
+            "such/JJ": 0.058823529411764705,
+            "increased/VBD": 0.058823529411764705,
+            "number/NN": 0.058823529411764705,
+            "are/VBP": 0.058823529411764705,
+            "``/``": 0.058823529411764705,
+            ",/,": 0.058823529411764705,
+            "extended/VBD": 0.058823529411764705,
+            "some/DT": 0.058823529411764705,
+            "defendants/NNS": 0.058823529411764705,
+            "has/VBZ": 0.058823529411764705,
+            "plaintiffs/NNS": 0.058823529411764705
+        }
+    ],
+    "the": [
+        85,
+        {
+            "department/NNP": 0.011764705882352941,
+            "political/JJ": 0.011764705882352941,
+            "current/JJ": 0.011764705882352941,
+            "rightward/JJ": 0.011764705882352941,
+            "reagan/NNP": 0.15294117647058825,
+            "tone/NN": 0.011764705882352941,
+            "justice/NNP": 0.047058823529411764,
+            "center/NN": 0.011764705882352941,
+            "left/NN": 0.011764705882352941,
+            "doubtful/JJ": 0.011764705882352941,
+            "direction/NN": 0.011764705882352941,
+            "core/NN": 0.011764705882352941,
+            "government/NN": 0.047058823529411764,
+            "business/NN": 0.011764705882352941,
+            "federal/NNP": 0.011764705882352941,
+            "sherman/NNP": 0.011764705882352941,
+            "lowest/JJS": 0.011764705882352941,
+            "post/NN": 0.011764705882352941,
+            "administration/NN": 0.011764705882352941,
+            "ability/NN": 0.011764705882352941,
+            "merged/VBN": 0.011764705882352941,
+            "focus/NN": 0.011764705882352941,
+            "arrival/NN": 0.011764705882352941,
+            "federal/JJ": 0.03529411764705882,
+            "number/NN": 0.011764705882352941,
+            "rill/NNP": 0.03529411764705882,
+            "most/RBS": 0.023529411764705882,
+            "success/NN": 0.011764705882352941,
+            "existing/VBG": 0.011764705882352941,
+            "pursuit/NN": 0.011764705882352941,
+            "antitrust/NNP": 0.047058823529411764,
+            "opportunity/NN": 0.011764705882352941,
+            "entry-level/JJ": 0.011764705882352941,
+            "going/VBG": 0.011764705882352941,
+            "upper/JJ": 0.011764705882352941,
+            "talent/NN": 0.011764705882352941,
+            "division/NN": 0.011764705882352941,
+            "1970s/NNS": 0.011764705882352941,
+            "institutional/JJ": 0.011764705882352941,
+            "enforcement/NN": 0.023529411764705882,
+            "bush/NNP": 0.011764705882352941,
+            "typical/JJ": 0.011764705882352941,
+            "strike/NN": 0.011764705882352941,
+            "letters/NNS": 0.011764705882352941,
+            "top/NN": 0.011764705882352941,
+            "knee/NN": 0.011764705882352941,
+            "belt/NN": 0.011764705882352941,
+            "high/JJ": 0.011764705882352941,
+            "line/NN": 0.011764705882352941,
+            "president/NN": 0.011764705882352941,
+            "modern/JJ": 0.011764705882352941,
+            "prosecution/NN": 0.011764705882352941,
+            "burden/NN": 0.011764705882352941,
+            "output/NN": 0.011764705882352941,
+            "conduct/NN": 0.011764705882352941,
+            "u.s./NNP": 0.011764705882352941,
+            "weapons-acquisition/NN": 0.011764705882352941,
+            "ftc/NNP": 0.011764705882352941
+        }
+    ],
+    "their": [
+        4,
+        {
+            "belief/NN": 0.25,
+            "size/NN": 0.25,
+            "hands/NNS": 0.25,
+            "choice/NN": 0.25
+        }
+    ],
+    "them": [
+        1,
+        {
+            "./.": 1.0
+        }
+    ],
+    "these": [
+        3,
+        {
+            "enforcement/NN": 0.3333333333333333,
+            "cases/NNS": 0.6666666666666666
+        }
+    ],
+    "they": [
+        2,
+        {
+            "would/MD": 0.5,
+            "seldom/RB": 0.5
+        }
+    ],
+    "third": [
+        1,
+        {
+            ",/,": 1.0
+        }
+    ],
+    "third-rate": [
+        1,
+        {
+            "law/NN": 1.0
+        }
+    ],
+    "this": [
+        4,
+        {
+            "reorientation/NN": 0.25,
+            "level/NN": 0.25,
+            "trend/NN": 0.25,
+            "and/CC": 0.25
+        }
+    ],
+    "though": [
+        2,
+        {
+            "tougher/JJR": 0.5,
+            "sympathetic/JJ": 0.5
+        }
+    ],
+    "three": [
+        1,
+        {
+            "cases/NNS": 1.0
+        }
+    ],
+    "thresholds": [
+        1,
+        {
+            "established/VBN": 1.0
+        }
+    ],
+    "through": [
+        3,
+        {
+            "1988/CD": 0.6666666666666666,
+            "the/DT": 0.3333333333333333
+        }
+    ],
+    "tighter": [
+        1,
+        {
+            "mesh/NN": 1.0
+        }
+    ],
+    "to": [
+        36,
+        {
+            "head/VB": 0.027777777777777776,
+            "move/VB": 0.027777777777777776,
+            "the/DT": 0.08333333333333333,
+            "challenge/VB": 0.05555555555555555,
+            "proposed/VBN": 0.027777777777777776,
+            "defeat/VB": 0.027777777777777776,
+            "reduce/VB": 0.027777777777777776,
+            "smaller/JJR": 0.027777777777777776,
+            "11/CD": 0.027777777777777776,
+            "prosecute/VB": 0.027777777777777776,
+            "1981-1988/CD": 0.027777777777777776,
+            "8/CD": 0.027777777777777776,
+            "collar/VB": 0.027777777777777776,
+            "attack/VB": 0.027777777777777776,
+            "increase/VB": 0.027777777777777776,
+            "recruit/VB": 0.027777777777777776,
+            "pursue/VB": 0.027777777777777776,
+            "$/$": 0.027777777777777776,
+            "join/VB": 0.027777777777777776,
+            "reverse/VB": 0.027777777777777776,
+            "expect/VB": 0.027777777777777776,
+            "undertake/VB": 0.027777777777777776,
+            "revive/VB": 0.027777777777777776,
+            "apply/VB": 0.027777777777777776,
+            "draw/VB": 0.027777777777777776,
+            "unsupportable/JJ": 0.027777777777777776,
+            "gain/VB": 0.027777777777777776,
+            "enforce/VB": 0.027777777777777776,
+            "reassert/VB": 0.027777777777777776,
+            "increasingly/RB": 0.027777777777777776,
+            "yield/VB": 0.027777777777777776,
+            "collective/JJ": 0.027777777777777776,
+            "improve/VB": 0.027777777777777776
+        }
+    ],
+    "today": [
+        2,
+        {
+            ",/,": 0.5,
+            "./.": 0.5
+        }
+    ],
+    "tone": [
+        1,
+        {
+            "and/CC": 1.0
+        }
+    ],
+    "top": [
+        1,
+        {
+            "of/IN": 1.0
+        }
+    ],
+    "total": [
+        1,
+        {
+            "of/IN": 1.0
+        }
+    ],
+    "tougher": [
+        1,
+        {
+            "speeches/NNS": 1.0
+        }
+    ],
+    "toward": [
+        1,
+        {
+            "studying/VBG": 1.0
+        }
+    ],
+    "trade": [
+        3,
+        {
+            "commission/NNP": 0.6666666666666666,
+            "associations/NNS": 0.3333333333333333
+        }
+    ],
+    "transactions": [
+        2,
+        {
+            "also/RB": 0.5,
+            "in/IN": 0.5
+        }
+    ],
+    "treatment": [
+        1,
+        {
+            "of/IN": 1.0
+        }
+    ],
+    "trend": [
+        1,
+        {
+            "was/VBD": 1.0
+        }
+    ],
+    "trivial": [
+        1,
+        {
+            "parade/NN": 1.0
+        }
+    ],
+    "turn": [
+        1,
+        {
+            "the/DT": 1.0
+        }
+    ],
+    "two": [
+        1,
+        {
+            "years/NNS": 1.0
+        }
+    ],
+    "typical": [
+        1,
+        {
+            "baseball/NN": 1.0
+        }
+    ],
+    "u.s.": [
+        1,
+        {
+            "might/MD": 1.0
+        }
+    ],
+    "umpire": [
+        1,
+        {
+            "'s/POS": 1.0
+        }
+    ],
+    "undertake": [
+        1,
+        {
+            "more/JJR": 1.0
+        }
+    ],
+    "unicorns": [
+        1,
+        {
+            "./.": 1.0
+        }
+    ],
+    "university": [
+        1,
+        {
+            "./.": 1.0
+        }
+    ],
+    "unless": [
+        1,
+        {
+            "impeded/VBN": 1.0
+        }
+    ],
+    "unlike": [
+        1,
+        {
+            "reagan/NNP": 1.0
+        }
+    ],
+    "unsupportable": [
+        1,
+        {
+            "extremes/NNS": 1.0
+        }
+    ],
+    "upon": [
+        2,
+        {
+            "large/JJ": 0.5,
+            "a/DT": 0.5
+        }
+    ],
+    "upper": [
+        1,
+        {
+            "strata/NNS": 1.0
+        }
+    ],
+    "used": [
+        1,
+        {
+            "to/TO": 1.0
+        }
+    ],
+    "ventures": [
+        1,
+        {
+            ",/,": 1.0
+        }
+    ],
+    "vertical": [
+        3,
+        {
+            "distribution/NN": 0.3333333333333333,
+            "restraints/NNS": 0.6666666666666666
+        }
+    ],
+    "vertical-restraint": [
+        1,
+        {
+            "cases/NNS": 1.0
+        }
+    ],
+    "vertical-restraints": [
+        3,
+        {
+            "cases/NNS": 0.3333333333333333,
+            "enforcement/NN": 0.3333333333333333,
+            "case/NN": 0.3333333333333333
+        }
+    ],
+    "wage": [
+        1,
+        {
+            "of/IN": 1.0
+        }
+    ],
+    "war": [
+        1,
+        {
+            "ii/NNP": 1.0
+        }
+    ],
+    "was": [
+        2,
+        {
+            "the/DT": 0.5,
+            "particularly/RB": 0.5
+        }
+    ],
+    "washington": [
+        1,
+        {
+            "or/CC": 1.0
+        }
+    ],
+    "weapons-acquisition": [
+        1,
+        {
+            "process/NN": 1.0
+        }
+    ],
+    "welcomed": [
+        1,
+        {
+            "mr./NNP": 1.0
+        }
+    ],
+    "were": [
+        2,
+        {
+            "as/RB": 0.5,
+            "to/TO": 0.5
+        }
+    ],
+    "when": [
+        2,
+        {
+            "pursuing/VBG": 0.5,
+            "claiming/VBG": 0.5
+        }
+    ],
+    "where": [
+        1,
+        {
+            "mr./NNP": 1.0
+        }
+    ],
+    "will": [
+        12,
+        {
+            "arrest/VB": 0.08333333333333333,
+            "renew/VB": 0.08333333333333333,
+            "probably/RB": 0.08333333333333333,
+            "not/RB": 0.08333333333333333,
+            "preclude/VB": 0.08333333333333333,
+            "./.": 0.08333333333333333,
+            "be/VB": 0.16666666666666666,
+            "turn/VB": 0.08333333333333333,
+            "signal/VB": 0.08333333333333333,
+            "indicate/VB": 0.08333333333333333,
+            "generate/VB": 0.08333333333333333
+        }
+    ],
+    "wisdom": [
+        1,
+        {
+            "is/VBZ": 1.0
+        }
+    ],
+    "wisely": [
+        1,
+        {
+            "channel/VB": 1.0
+        }
+    ],
+    "with": [
+        7,
+        {
+            "several/JJ": 0.14285714285714285,
+            "a/DT": 0.14285714285714285,
+            "promises/NNS": 0.14285714285714285,
+            ",/,": 0.14285714285714285,
+            "the/DT": 0.2857142857142857,
+            "mr./NNP": 0.14285714285714285
+        }
+    ],
+    "world": [
+        1,
+        {
+            "war/NNP": 1.0
+        }
+    ],
+    "would": [
+        5,
+        {
+            "prosecute/VB": 0.2,
+            "find/VB": 0.2,
+            "be/VB": 0.2,
+            "coincide/VB": 0.2,
+            "permit/VB": 0.2
+        }
+    ],
+    "years": [
+        3,
+        {
+            "ago/RB": 0.6666666666666666,
+            ",/,": 0.3333333333333333
+        }
+    ],
+    "yield": [
+        1,
+        {
+            "a/DT": 1.0
+        }
+    ],
+    "york": [
+        1,
+        {
+            "./.": 1.0
+        }
+    ],
+    "zone": [
+        2,
+        {
+            "./.": 0.5,
+            "</s>": 0.5
+        }
+    ]
+}
